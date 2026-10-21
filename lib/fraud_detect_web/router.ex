@@ -18,6 +18,7 @@ defmodule FraudDetectWeb.Router do
     pipe_through :browser
 
     live "/customers", CustomerLive
+    live "/fraud", FraudLive
 
     get "/", PageController, :home
   end

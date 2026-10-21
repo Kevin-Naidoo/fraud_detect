@@ -1,0 +1,1001 @@
+TransactionID,AccountNumber,CustomerName,TransactionDate,TransactionType,Amount_ZAR,Channel,Location,Status,FraudRiskLevel
+SB100000,4128728463,Thabo Mokoena,2025/12/13,ATM Withdrawal,31989.37,POS Terminal,Johannesburg,Success,High
+SB100001,4141227216,Tebogo Mashego,2025/11/05,ATM Withdrawal,29545.1,Mobile App,Polokwane,Success,Low
+SB100002,4147338124,Sipho Nkosi,2025/03/23,Cash Deposit,9981.94,Online Banking,Durban,Pending,Low
+SB100003,4155176955,Thabo Mokoena,2025/02/17,Salary Deposit,13929.67,Online Banking,Johannesburg,Flagged,High
+SB100004,4171662963,Tebogo Mashego,2025/03/05,Debit Order,17981.02,Online Banking,Johannesburg,Success,Low
+SB100005,4119335534,Sipho Nkosi,2025/12/05,Debit Order,27624.43,ATM,Port Elizabeth,Pending,Low
+SB100006,4161019678,Bongani Ndlovu,2025/08/21,EFT Payment,14504.93,Branch,Pretoria,Success,Medium
+SB100007,4196977837,Thabo Mokoena,2025/11/08,Salary Deposit,18540.54,ATM,Polokwane,Pending,Low
+SB100008,4195899313,Tebogo Mashego,2025/04/23,POS Purchase,36469.88,Branch,Port Elizabeth,Success,High
+SB100009,4114308421,Zanele Sithole,2025/07/25,ATM Withdrawal,38427.26,Branch,Johannesburg,Success,Medium
+SB100010,4163100814,Ayanda Zulu,2025/03/15,Debit Order,10588.59,Branch,Pretoria,Failed,Low
+SB100011,4188320463,Kagiso Molefe,2025/07/05,Online Transfer,12369.04,ATM,Pretoria,Failed,Medium
+SB100012,4130514014,Lerato Dlamini,2025/12/15,EFT Payment,25500.84,Online Banking,Polokwane,Success,Medium
+SB100013,4181016525,Bongani Ndlovu,2025/10/11,Cash Deposit,3223.21,Mobile App,Bloemfontein,Failed,Low
+SB100014,4149392920,Kagiso Molefe,2025/03/22,Online Transfer,36050.05,Online Banking,Johannesburg,Success,High
+SB100015,4178139880,Thabo Mokoena,2025/11/17,Online Transfer,47693.11,Branch,Port Elizabeth,Flagged,High
+SB100016,4131682744,Tebogo Mashego,2025/09/29,Salary Deposit,31965.53,Mobile App,Polokwane,Success,Medium
+SB100017,4151273847,Nomsa Khumalo,2025/01/30,ATM Withdrawal,16241.6,ATM,Polokwane,Failed,Low
+SB100018,4181498611,Lerato Dlamini,2025/03/07,EFT Payment,47350.12,Online Banking,Polokwane,Flagged,High
+SB100019,4182383095,Nomsa Khumalo,2026/01/01,Cash Deposit,8298.09,Branch,Cape Town,Flagged,High
+SB100020,4126240908,Nomsa Khumalo,2025/04/26,Debit Order,49757.71,Mobile App,Durban,Flagged,High
+SB100021,4119528530,Sipho Nkosi,2025/04/28,Salary Deposit,1100.66,Mobile App,Johannesburg,Success,Low
+SB100022,4175151231,Nomsa Khumalo,2025/10/04,EFT Payment,42988.79,ATM,Bloemfontein,Success,High
+SB100023,4173481353,Kagiso Molefe,2025/04/08,International Payment,46778.94,Mobile App,Johannesburg,Success,Medium
+SB100024,4117270733,Thabo Mokoena,2025/02/01,Debit Order,32966.19,Online Banking,Bloemfontein,Flagged,High
+SB100025,4181979055,Ayanda Zulu,2025/03/13,EFT Payment,16998.17,Online Banking,Pretoria,Success,Low
+SB100026,4169476001,Tebogo Mashego,2025/02/20,Salary Deposit,13963.33,Mobile App,Bloemfontein,Success,Medium
+SB100027,4141726318,Lerato Dlamini,2025/07/28,ATM Withdrawal,49964.16,Online Banking,Cape Town,Flagged,High
+SB100028,4132097220,Kagiso Molefe,2025/01/02,Cash Deposit,10726.68,Online Banking,Durban,Flagged,High
+SB100029,4184593961,Ayanda Zulu,2025/03/21,International Payment,46329.58,ATM,Durban,Success,Medium
+SB100030,4118181586,Zanele Sithole,2025/01/30,ATM Withdrawal,10924.16,Mobile App,Polokwane,Pending,Low
+SB100031,4120752378,Lerato Dlamini,2025/02/05,POS Purchase,23865.59,POS Terminal,Johannesburg,Pending,Low
+SB100032,4186460539,Nomsa Khumalo,2025/10/24,Salary Deposit,33776.87,POS Terminal,Johannesburg,Flagged,High
+SB100033,4152462441,Bongani Ndlovu,2025/04/15,Cash Deposit,30988.11,Branch,Pretoria,Flagged,High
+SB100034,4171367643,Zanele Sithole,2025/02/07,POS Purchase,13317.44,Mobile App,Cape Town,Failed,Low
+SB100035,4138609087,Tebogo Mashego,2025/05/16,EFT Payment,31076.9,ATM,Durban,Success,Medium
+SB100036,4182909480,Bongani Ndlovu,2025/11/10,Salary Deposit,44049.17,POS Terminal,Johannesburg,Success,High
+SB100037,4128024248,Bongani Ndlovu,2025/03/01,Online Transfer,33409.77,Mobile App,Bloemfontein,Success,High
+SB100038,4156020613,Nomsa Khumalo,2025/12/18,Online Transfer,27683.52,Branch,Polokwane,Success,Low
+SB100039,4147135391,Sipho Nkosi,2025/01/02,ATM Withdrawal,24452.17,Branch,Port Elizabeth,Failed,Low
+SB100040,4184045292,Kagiso Molefe,2025/10/15,Online Transfer,6584.44,Mobile App,Johannesburg,Failed,Low
+SB100041,4188183110,Tebogo Mashego,2025/03/17,POS Purchase,3808.43,Online Banking,Pretoria,Failed,Low
+SB100042,4158024342,Nomsa Khumalo,2025/12/16,Debit Order,2139.35,ATM,Bloemfontein,Success,Medium
+SB100043,4130743797,Nomsa Khumalo,2025/03/25,Cash Deposit,5184.54,ATM,Cape Town,Flagged,High
+SB100044,4199913412,Nomsa Khumalo,2025/05/17,Debit Order,1288.08,ATM,Port Elizabeth,Failed,Medium
+SB100045,4139854548,Nomsa Khumalo,2025/08/24,Cash Deposit,35078.85,Branch,Durban,Flagged,High
+SB100046,4198588154,Nomsa Khumalo,2025/07/24,Salary Deposit,41035.79,Branch,Durban,Success,Medium
+SB100047,4181969657,Zanele Sithole,2025/01/15,Online Transfer,43224.43,Mobile App,Durban,Flagged,High
+SB100048,4168326160,Zanele Sithole,2025/06/10,Online Transfer,8969.46,Online Banking,Polokwane,Pending,Low
+SB100049,4144188276,Sipho Nkosi,2025/12/29,EFT Payment,49212.58,Online Banking,Johannesburg,Flagged,High
+SB100050,4199152472,Zanele Sithole,2025/11/16,Salary Deposit,26020.02,Branch,Bloemfontein,Success,Low
+SB100051,4153779528,Kagiso Molefe,2025/12/23,Online Transfer,42408.36,Branch,Polokwane,Flagged,High
+SB100052,4133357554,Nandi Mbatha,2025/10/19,Cash Deposit,6408.03,Branch,Cape Town,Failed,Low
+SB100053,4167698610,Nandi Mbatha,2025/11/07,ATM Withdrawal,27419.46,Branch,Cape Town,Success,Low
+SB100054,4132775593,Thabo Mokoena,2025/05/26,Salary Deposit,22117.21,POS Terminal,Bloemfontein,Pending,Low
+SB100055,4141523529,Bongani Ndlovu,2025/04/26,Debit Order,31665.4,ATM,Pretoria,Success,Medium
+SB100056,4192043803,Thabo Mokoena,2025/08/22,Salary Deposit,1270.05,Online Banking,Bloemfontein,Flagged,High
+SB100057,4129806690,Sipho Nkosi,2025/02/24,Cash Deposit,28804.76,Online Banking,Pretoria,Success,Low
+SB100058,4143446826,Thabo Mokoena,2025/08/22,International Payment,8835.54,ATM,Port Elizabeth,Success,Medium
+SB100059,4169401199,Nandi Mbatha,2025/09/16,Debit Order,23258.93,Online Banking,Port Elizabeth,Flagged,High
+SB100060,4173709724,Ayanda Zulu,2025/05/13,International Payment,45347.39,ATM,Port Elizabeth,Flagged,High
+SB100061,4120399639,Bongani Ndlovu,2025/05/01,International Payment,31901.19,Branch,Durban,Success,High
+SB100062,4161410126,Lerato Dlamini,2025/12/28,EFT Payment,16019.49,ATM,Johannesburg,Success,Low
+SB100063,4118357162,Nomsa Khumalo,2025/08/04,Debit Order,20772.65,Online Banking,Port Elizabeth,Failed,Low
+SB100064,4161053877,Ayanda Zulu,2025/01/04,ATM Withdrawal,29224.77,Branch,Durban,Pending,Medium
+SB100065,4190967191,Nomsa Khumalo,2025/09/07,Cash Deposit,37686.08,ATM,Durban,Flagged,High
+SB100066,4164266464,Lerato Dlamini,2025/08/28,ATM Withdrawal,21820.01,ATM,Polokwane,Pending,Low
+SB100067,4113637575,Thabo Mokoena,2025/11/26,Cash Deposit,26729.48,Online Banking,Pretoria,Pending,Low
+SB100068,4160882459,Zanele Sithole,2025/04/19,POS Purchase,43349.23,Online Banking,Durban,Success,Medium
+SB100069,4143859311,Thabo Mokoena,2025/08/29,Cash Deposit,16908.15,Mobile App,Bloemfontein,Failed,Low
+SB100070,4197477029,Sipho Nkosi,2025/01/16,Debit Order,26993.98,ATM,Pretoria,Success,Low
+SB100071,4173560289,Thabo Mokoena,2025/10/16,POS Purchase,41969.48,ATM,Cape Town,Success,Medium
+SB100072,4191503378,Thabo Mokoena,2025/03/25,Debit Order,34988.28,Branch,Johannesburg,Success,Medium
+SB100073,4163238057,Nomsa Khumalo,2025/02/08,Online Transfer,28955.3,POS Terminal,Bloemfontein,Failed,Low
+SB100074,4150477742,Nandi Mbatha,2025/03/03,Salary Deposit,41537.05,POS Terminal,Port Elizabeth,Success,Medium
+SB100075,4177908907,Zanele Sithole,2025/01/07,Cash Deposit,2101.4,Online Banking,Port Elizabeth,Success,Low
+SB100076,4195306788,Ayanda Zulu,2025/12/29,Cash Deposit,24535.58,ATM,Cape Town,Flagged,High
+SB100077,4174893936,Ayanda Zulu,2025/08/12,Online Transfer,8848.04,POS Terminal,Durban,Pending,Low
+SB100078,4147437115,Ayanda Zulu,2025/05/05,Salary Deposit,16149.11,Online Banking,Polokwane,Success,Medium
+SB100079,4153622663,Lerato Dlamini,2025/09/07,Cash Deposit,30536.07,ATM,Durban,Flagged,High
+SB100080,4190014570,Bongani Ndlovu,2025/10/12,Debit Order,39901.73,Mobile App,Polokwane,Success,Medium
+SB100081,4164549859,Ayanda Zulu,2025/10/12,EFT Payment,47405.73,ATM,Bloemfontein,Success,Medium
+SB100082,4149491631,Nomsa Khumalo,2025/07/27,International Payment,23830.85,ATM,Durban,Success,High
+SB100083,4167110154,Tebogo Mashego,2025/06/19,Debit Order,33214.8,Branch,Bloemfontein,Flagged,High
+SB100084,4135848226,Zanele Sithole,2025/03/03,Online Transfer,22714.58,POS Terminal,Port Elizabeth,Success,Low
+SB100085,4174988034,Bongani Ndlovu,2025/10/29,Salary Deposit,34523.67,POS Terminal,Polokwane,Success,Medium
+SB100086,4140532273,Zanele Sithole,2025/04/02,EFT Payment,14185.79,Branch,Johannesburg,Failed,Medium
+SB100087,4117318358,Tebogo Mashego,2025/05/30,POS Purchase,35415.52,ATM,Bloemfontein,Success,Medium
+SB100088,4111646234,Nandi Mbatha,2025/05/26,International Payment,43429.64,Online Banking,Cape Town,Success,Medium
+SB100089,4143887075,Ayanda Zulu,2025/02/28,POS Purchase,22051.42,Mobile App,Cape Town,Flagged,High
+SB100090,4150780112,Thabo Mokoena,2025/05/08,ATM Withdrawal,24612.74,Mobile App,Polokwane,Pending,Low
+SB100091,4169421007,Bongani Ndlovu,2025/10/29,Salary Deposit,38233.95,Online Banking,Durban,Success,High
+SB100092,4123318904,Nomsa Khumalo,2025/11/17,ATM Withdrawal,28453.04,ATM,Durban,Pending,Low
+SB100093,4184087145,Thabo Mokoena,2025/03/22,POS Purchase,33038.39,Mobile App,Cape Town,Success,Medium
+SB100094,4141068214,Bongani Ndlovu,2025/12/28,International Payment,22552.66,Branch,Bloemfontein,Success,Medium
+SB100095,4193893865,Nandi Mbatha,2025/12/05,EFT Payment,42987.36,ATM,Cape Town,Flagged,High
+SB100096,4129090631,Thabo Mokoena,2025/01/31,Salary Deposit,5783.08,ATM,Port Elizabeth,Failed,Low
+SB100097,4150814428,Kagiso Molefe,2025/05/20,Online Transfer,15415.21,POS Terminal,Polokwane,Failed,Low
+SB100098,4153261270,Nandi Mbatha,2025/05/09,EFT Payment,24715.07,Mobile App,Johannesburg,Failed,Low
+SB100099,4146173157,Nandi Mbatha,2025/01/21,ATM Withdrawal,11484.77,ATM,Cape Town,Flagged,High
+SB100100,4188561612,Kagiso Molefe,2025/11/22,International Payment,25972.24,Online Banking,Johannesburg,Success,High
+SB100101,4124039158,Lerato Dlamini,2025/06/18,Cash Deposit,23527.02,Online Banking,Bloemfontein,Pending,Low
+SB100102,4114925405,Ayanda Zulu,2025/02/15,Cash Deposit,24798.68,Branch,Durban,Pending,Medium
+SB100103,4198269682,Tebogo Mashego,2025/08/25,Cash Deposit,16197.53,Online Banking,Johannesburg,Success,Medium
+SB100104,4193940940,Ayanda Zulu,2025/01/27,Debit Order,9419.75,ATM,Durban,Failed,Low
+SB100105,4175056916,Thabo Mokoena,2025/01/15,Online Transfer,27483.52,POS Terminal,Port Elizabeth,Pending,Low
+SB100106,4184121929,Kagiso Molefe,2025/02/17,POS Purchase,12002.91,ATM,Port Elizabeth,Success,Low
+SB100107,4130665654,Ayanda Zulu,2025/05/30,International Payment,45650.85,POS Terminal,Bloemfontein,Flagged,High
+SB100108,4183989546,Lerato Dlamini,2025/07/16,International Payment,13707.57,ATM,Polokwane,Success,High
+SB100109,4165692629,Zanele Sithole,2025/09/17,POS Purchase,25436.63,Branch,Port Elizabeth,Failed,Medium
+SB100110,4198575748,Ayanda Zulu,2025/03/18,Online Transfer,178.13,Online Banking,Polokwane,Pending,Medium
+SB100111,4160628276,Ayanda Zulu,2025/06/14,Debit Order,24242.85,ATM,Bloemfontein,Pending,Low
+SB100112,4115858241,Zanele Sithole,2025/08/31,Cash Deposit,11978.34,Online Banking,Cape Town,Failed,Low
+SB100113,4177416376,Nandi Mbatha,2025/06/19,POS Purchase,49421.28,Mobile App,Port Elizabeth,Success,High
+SB100114,4129348212,Kagiso Molefe,2025/12/02,EFT Payment,42259.72,ATM,Johannesburg,Flagged,High
+SB100115,4163349308,Thabo Mokoena,2025/06/18,Online Transfer,23501.06,POS Terminal,Cape Town,Pending,Low
+SB100116,4119183277,Nomsa Khumalo,2025/11/20,International Payment,47709.27,Branch,Pretoria,Success,High
+SB100117,4123489853,Ayanda Zulu,2025/03/27,Cash Deposit,37350.98,Branch,Johannesburg,Flagged,High
+SB100118,4167805802,Lerato Dlamini,2025/05/06,ATM Withdrawal,2347.25,POS Terminal,Cape Town,Failed,Low
+SB100119,4191804602,Kagiso Molefe,2025/11/14,POS Purchase,28318.11,ATM,Cape Town,Success,Low
+SB100120,4195618110,Bongani Ndlovu,2025/08/24,POS Purchase,45645.81,Branch,Bloemfontein,Success,Medium
+SB100121,4131203129,Thabo Mokoena,2025/08/15,International Payment,519.4,Branch,Polokwane,Flagged,High
+SB100122,4150550084,Nomsa Khumalo,2025/07/16,Cash Deposit,14992.75,Online Banking,Johannesburg,Failed,Low
+SB100123,4149625201,Sipho Nkosi,2025/12/04,Debit Order,11898.42,Online Banking,Durban,Pending,Low
+SB100124,4176669607,Bongani Ndlovu,2025/04/28,ATM Withdrawal,454.49,POS Terminal,Port Elizabeth,Flagged,High
+SB100125,4198473848,Lerato Dlamini,2025/11/18,Salary Deposit,17648.43,Mobile App,Bloemfontein,Pending,Low
+SB100126,4158970845,Lerato Dlamini,2025/02/16,Online Transfer,32334.71,Branch,Durban,Success,High
+SB100127,4182398083,Zanele Sithole,2025/09/29,POS Purchase,37386.67,POS Terminal,Durban,Success,Medium
+SB100128,4149613214,Zanele Sithole,2025/02/28,Online Transfer,41532.11,Online Banking,Johannesburg,Flagged,High
+SB100129,4163339667,Tebogo Mashego,2025/07/07,Salary Deposit,7080.81,Mobile App,Port Elizabeth,Pending,Medium
+SB100130,4159470729,Bongani Ndlovu,2025/10/27,Online Transfer,19759,Online Banking,Port Elizabeth,Failed,Low
+SB100131,4141383044,Ayanda Zulu,2025/01/13,Debit Order,31945.54,POS Terminal,Polokwane,Success,Medium
+SB100132,4172312933,Bongani Ndlovu,2025/11/29,Salary Deposit,16433.91,Online Banking,Johannesburg,Pending,Low
+SB100133,4125585427,Thabo Mokoena,2025/05/01,ATM Withdrawal,7031.86,POS Terminal,Pretoria,Failed,Low
+SB100134,4182503409,Kagiso Molefe,2025/10/28,Debit Order,19462.86,ATM,Cape Town,Pending,Low
+SB100135,4147546086,Sipho Nkosi,2025/12/20,International Payment,32763.35,Branch,Pretoria,Flagged,High
+SB100136,4159302863,Tebogo Mashego,2025/11/27,Salary Deposit,22196.99,Branch,Johannesburg,Success,Medium
+SB100137,4171031132,Thabo Mokoena,2025/12/06,Salary Deposit,19937.08,ATM,Bloemfontein,Flagged,High
+SB100138,4154762841,Nomsa Khumalo,2025/03/06,ATM Withdrawal,31992.67,POS Terminal,Pretoria,Success,Medium
+SB100139,4154098516,Lerato Dlamini,2025/11/02,Salary Deposit,3477.08,Mobile App,Durban,Success,Low
+SB100140,4133420607,Thabo Mokoena,2025/12/05,POS Purchase,42927.39,Mobile App,Pretoria,Flagged,High
+SB100141,4133386929,Bongani Ndlovu,2025/01/27,Salary Deposit,792.27,ATM,Bloemfontein,Success,Low
+SB100142,4170166480,Zanele Sithole,2025/09/20,EFT Payment,21076.98,POS Terminal,Johannesburg,Failed,Medium
+SB100143,4115820356,Tebogo Mashego,2025/06/04,Salary Deposit,22627.67,Online Banking,Bloemfontein,Flagged,High
+SB100144,4167213476,Thabo Mokoena,2025/09/09,ATM Withdrawal,48203.11,Online Banking,Johannesburg,Flagged,High
+SB100145,4146912022,Nandi Mbatha,2025/11/21,Debit Order,44968.37,POS Terminal,Polokwane,Success,High
+SB100146,4170896652,Tebogo Mashego,2025/11/06,Cash Deposit,35622.03,Online Banking,Johannesburg,Flagged,High
+SB100147,4183998961,Nomsa Khumalo,2025/08/09,EFT Payment,39665.15,Online Banking,Pretoria,Flagged,High
+SB100148,4151949529,Kagiso Molefe,2025/06/10,International Payment,20719.99,Branch,Durban,Flagged,High
+SB100149,4121457410,Thabo Mokoena,2025/08/10,International Payment,47681.95,Mobile App,Bloemfontein,Success,Medium
+SB100150,4185374852,Tebogo Mashego,2025/06/18,POS Purchase,36952.86,Mobile App,Cape Town,Flagged,High
+SB100151,4116904975,Bongani Ndlovu,2025/11/04,Cash Deposit,17712.22,Branch,Durban,Pending,Medium
+SB100152,4140097636,Thabo Mokoena,2025/06/29,Salary Deposit,5224.85,POS Terminal,Durban,Failed,Low
+SB100153,4185291541,Nandi Mbatha,2025/11/11,Online Transfer,5788.52,POS Terminal,Johannesburg,Failed,Low
+SB100154,4146677730,Bongani Ndlovu,2025/06/23,Online Transfer,30469.3,Branch,Johannesburg,Success,Medium
+SB100155,4119339597,Lerato Dlamini,2025/11/21,POS Purchase,9111.21,Mobile App,Johannesburg,Failed,Low
+SB100156,4131127115,Zanele Sithole,2025/06/09,Salary Deposit,37318.28,Branch,Port Elizabeth,Flagged,High
+SB100157,4192924837,Sipho Nkosi,2025/12/12,EFT Payment,47073.3,Mobile App,Durban,Success,High
+SB100158,4165590800,Bongani Ndlovu,2025/04/21,Cash Deposit,22183.49,POS Terminal,Johannesburg,Failed,Low
+SB100159,4189609131,Ayanda Zulu,2025/09/27,EFT Payment,17291.38,Branch,Johannesburg,Pending,Low
+SB100160,4138351344,Lerato Dlamini,2025/05/11,ATM Withdrawal,11064.9,Branch,Durban,Failed,Low
+SB100161,4161030579,Tebogo Mashego,2025/12/27,International Payment,6043.22,ATM,Polokwane,Success,High
+SB100162,4115677713,Kagiso Molefe,2025/01/10,Debit Order,27958.24,Online Banking,Johannesburg,Pending,Low
+SB100163,4166061934,Bongani Ndlovu,2025/02/28,Cash Deposit,43112.4,Online Banking,Johannesburg,Flagged,High
+SB100164,4158567046,Thabo Mokoena,2025/08/12,POS Purchase,48311.67,Mobile App,Pretoria,Flagged,High
+SB100165,4151644346,Zanele Sithole,2025/04/24,Cash Deposit,21812.04,Branch,Port Elizabeth,Failed,Low
+SB100166,4156892354,Zanele Sithole,2025/11/27,EFT Payment,8448.23,ATM,Pretoria,Success,Low
+SB100167,4130517835,Thabo Mokoena,2025/04/01,Online Transfer,5185.09,Online Banking,Cape Town,Pending,Low
+SB100168,4196300902,Nandi Mbatha,2025/06/15,International Payment,37734.57,Branch,Pretoria,Flagged,High
+SB100169,4146866075,Nandi Mbatha,2025/01/29,International Payment,22016.15,Branch,Polokwane,Success,High
+SB100170,4148530827,Thabo Mokoena,2025/11/27,International Payment,3755.82,Mobile App,Polokwane,Success,High
+SB100171,4115505975,Ayanda Zulu,2025/10/20,Cash Deposit,29724.29,ATM,Durban,Pending,Low
+SB100172,4156095437,Thabo Mokoena,2025/09/16,POS Purchase,30270.04,ATM,Johannesburg,Flagged,High
+SB100173,4191846696,Lerato Dlamini,2025/07/06,International Payment,12424.8,Branch,Durban,Flagged,High
+SB100174,4194676162,Zanele Sithole,2025/02/03,Debit Order,19401.46,Branch,Johannesburg,Success,Low
+SB100175,4198122539,Nandi Mbatha,2025/03/18,Cash Deposit,27920.26,Branch,Johannesburg,Pending,Low
+SB100176,4151638598,Kagiso Molefe,2025/03/08,POS Purchase,29157.84,POS Terminal,Bloemfontein,Flagged,High
+SB100177,4154087376,Lerato Dlamini,2025/12/10,Online Transfer,46903.21,POS Terminal,Johannesburg,Flagged,High
+SB100178,4151455302,Lerato Dlamini,2025/04/20,Cash Deposit,32318.94,Branch,Port Elizabeth,Success,High
+SB100179,4130796389,Thabo Mokoena,2025/06/01,Salary Deposit,24339.23,Mobile App,Polokwane,Flagged,High
+SB100180,4192950779,Lerato Dlamini,2025/11/02,ATM Withdrawal,38555.19,Online Banking,Pretoria,Flagged,High
+SB100181,4165144509,Zanele Sithole,2025/12/13,POS Purchase,8154.25,ATM,Cape Town,Success,Medium
+SB100182,4142100652,Bongani Ndlovu,2025/08/29,International Payment,30549.24,ATM,Durban,Success,Medium
+SB100183,4161254050,Tebogo Mashego,2025/09/28,International Payment,33931.43,Online Banking,Pretoria,Success,High
+SB100184,4174503785,Zanele Sithole,2025/10/11,POS Purchase,40853.72,Mobile App,Bloemfontein,Success,High
+SB100185,4131516757,Bongani Ndlovu,2025/08/19,EFT Payment,42302.32,POS Terminal,Pretoria,Success,Medium
+SB100186,4170549373,Zanele Sithole,2025/01/14,EFT Payment,41560.78,Online Banking,Johannesburg,Success,High
+SB100187,4160319927,Nomsa Khumalo,2025/01/15,Debit Order,19852.88,Branch,Johannesburg,Success,Low
+SB100188,4148504300,Ayanda Zulu,2025/12/23,Debit Order,41966.86,ATM,Port Elizabeth,Success,High
+SB100189,4112550658,Bongani Ndlovu,2025/04/21,International Payment,35291.53,ATM,Polokwane,Flagged,High
+SB100190,4148668339,Nomsa Khumalo,2025/06/04,Cash Deposit,47014.29,Mobile App,Johannesburg,Success,Medium
+SB100191,4177085942,Nandi Mbatha,2025/10/02,International Payment,11960.05,Mobile App,Bloemfontein,Success,Medium
+SB100192,4167611469,Sipho Nkosi,2025/11/11,Salary Deposit,25793.02,Branch,Pretoria,Failed,Medium
+SB100193,4180260907,Zanele Sithole,2025/02/04,POS Purchase,28554.65,POS Terminal,Polokwane,Success,Low
+SB100194,4115843091,Kagiso Molefe,2025/07/11,ATM Withdrawal,25391.02,Branch,Bloemfontein,Failed,Low
+SB100195,4198195059,Thabo Mokoena,2025/10/25,EFT Payment,861.3,Branch,Pretoria,Pending,Low
+SB100196,4172360629,Ayanda Zulu,2025/11/20,Debit Order,2264.57,ATM,Port Elizabeth,Success,Medium
+SB100197,4137057085,Sipho Nkosi,2025/04/13,International Payment,6785.89,Mobile App,Durban,Success,Medium
+SB100198,4143999198,Sipho Nkosi,2025/11/28,Cash Deposit,46671.88,ATM,Durban,Flagged,High
+SB100199,4146670512,Thabo Mokoena,2025/07/08,ATM Withdrawal,17880.86,Online Banking,Cape Town,Failed,Medium
+SB100200,4176776459,Zanele Sithole,2025/09/23,Cash Deposit,37178.22,Branch,Port Elizabeth,Success,High
+SB100201,4134220459,Tebogo Mashego,2025/05/31,Cash Deposit,4176.44,Branch,Johannesburg,Pending,Low
+SB100202,4167192331,Lerato Dlamini,2025/12/20,Online Transfer,4049.44,Online Banking,Durban,Pending,Low
+SB100203,4146850196,Sipho Nkosi,2025/02/08,Debit Order,22384.13,Online Banking,Durban,Failed,Low
+SB100204,4129163535,Nandi Mbatha,2025/12/14,POS Purchase,25678.65,Online Banking,Johannesburg,Flagged,High
+SB100205,4158607028,Kagiso Molefe,2025/10/18,Salary Deposit,6355.19,Mobile App,Polokwane,Failed,Medium
+SB100206,4120319387,Nandi Mbatha,2025/03/12,International Payment,7714.24,POS Terminal,Durban,Success,High
+SB100207,4113478029,Lerato Dlamini,2025/09/13,Online Transfer,19931.8,POS Terminal,Cape Town,Success,Low
+SB100208,4144935501,Ayanda Zulu,2025/04/20,EFT Payment,45681.45,POS Terminal,Durban,Success,Medium
+SB100209,4128217159,Thabo Mokoena,2025/08/20,International Payment,34714.33,ATM,Bloemfontein,Success,Medium
+SB100210,4199635939,Zanele Sithole,2025/12/30,EFT Payment,22283.3,Mobile App,Polokwane,Failed,Medium
+SB100211,4195590648,Lerato Dlamini,2025/07/05,Online Transfer,27131.46,POS Terminal,Pretoria,Pending,Medium
+SB100212,4176306502,Sipho Nkosi,2025/07/04,Salary Deposit,6112.05,POS Terminal,Polokwane,Success,Medium
+SB100213,4118824561,Bongani Ndlovu,2025/07/23,POS Purchase,18477.11,Online Banking,Polokwane,Success,Low
+SB100214,4126821075,Zanele Sithole,2025/11/25,Cash Deposit,20569.22,Mobile App,Cape Town,Success,Medium
+SB100215,4195871687,Nandi Mbatha,2025/04/04,Debit Order,23318.37,ATM,Cape Town,Pending,Low
+SB100216,4130537388,Bongani Ndlovu,2025/03/26,ATM Withdrawal,25168.05,ATM,Durban,Pending,Medium
+SB100217,4148124318,Thabo Mokoena,2025/05/09,Salary Deposit,46740.15,ATM,Bloemfontein,Flagged,High
+SB100218,4150644430,Nandi Mbatha,2025/10/01,Online Transfer,47819.76,Mobile App,Polokwane,Success,Medium
+SB100219,4193816177,Nandi Mbatha,2025/06/22,POS Purchase,32067.32,POS Terminal,Johannesburg,Success,Medium
+SB100220,4196094462,Nandi Mbatha,2025/05/16,ATM Withdrawal,41270.55,ATM,Port Elizabeth,Success,Medium
+SB100221,4183226170,Bongani Ndlovu,2025/11/25,ATM Withdrawal,28628.25,Branch,Cape Town,Pending,Low
+SB100222,4118041391,Lerato Dlamini,2025/08/14,Cash Deposit,12281.65,Online Banking,Cape Town,Success,Low
+SB100223,4152857920,Zanele Sithole,2025/07/24,Debit Order,23248.89,ATM,Port Elizabeth,Failed,Low
+SB100224,4126444612,Bongani Ndlovu,2025/08/19,EFT Payment,18558.48,ATM,Pretoria,Failed,Low
+SB100225,4192594562,Kagiso Molefe,2025/05/08,Online Transfer,4885.74,ATM,Port Elizabeth,Flagged,High
+SB100226,4176876068,Tebogo Mashego,2025/08/28,Debit Order,16405.42,Online Banking,Durban,Success,Low
+SB100227,4177839607,Ayanda Zulu,2025/05/04,EFT Payment,24893.65,ATM,Polokwane,Flagged,High
+SB100228,4197813295,Ayanda Zulu,2025/05/27,ATM Withdrawal,17677.11,POS Terminal,Johannesburg,Pending,Low
+SB100229,4145496951,Zanele Sithole,2025/07/26,Cash Deposit,42366.26,Branch,Johannesburg,Success,Medium
+SB100230,4119869264,Kagiso Molefe,2025/09/16,Salary Deposit,20059.05,Online Banking,Port Elizabeth,Failed,Low
+SB100231,4162868861,Zanele Sithole,2025/06/23,EFT Payment,27515.36,POS Terminal,Durban,Success,Low
+SB100232,4115402922,Sipho Nkosi,2025/01/20,Salary Deposit,37760.51,ATM,Bloemfontein,Flagged,High
+SB100233,4179190008,Lerato Dlamini,2025/06/17,International Payment,16685.38,POS Terminal,Durban,Success,High
+SB100234,4178412668,Tebogo Mashego,2025/09/08,Online Transfer,8166.98,POS Terminal,Durban,Pending,Low
+SB100235,4124710878,Kagiso Molefe,2025/10/26,ATM Withdrawal,23770.89,Branch,Port Elizabeth,Pending,Low
+SB100236,4197991930,Nandi Mbatha,2025/10/23,ATM Withdrawal,44943.42,ATM,Bloemfontein,Success,High
+SB100237,4194426338,Nandi Mbatha,2025/07/14,International Payment,2615.19,ATM,Port Elizabeth,Success,Medium
+SB100238,4135606639,Sipho Nkosi,2025/08/14,ATM Withdrawal,34052.31,Branch,Cape Town,Flagged,High
+SB100239,4173297813,Sipho Nkosi,2025/12/28,Salary Deposit,7613.99,ATM,Polokwane,Pending,Low
+SB100240,4174205866,Tebogo Mashego,2025/07/12,Debit Order,10406.72,Branch,Pretoria,Flagged,High
+SB100241,4196343485,Bongani Ndlovu,2025/11/09,Debit Order,23010.19,Online Banking,Pretoria,Pending,Low
+SB100242,4149945150,Bongani Ndlovu,2025/12/27,Online Transfer,47869,ATM,Bloemfontein,Success,High
+SB100243,4146702849,Bongani Ndlovu,2025/03/04,Debit Order,35264.16,POS Terminal,Bloemfontein,Flagged,High
+SB100244,4148983895,Sipho Nkosi,2025/05/28,Cash Deposit,27182.38,Mobile App,Durban,Success,Medium
+SB100245,4182286705,Bongani Ndlovu,2025/10/15,Online Transfer,46204.28,Branch,Pretoria,Success,High
+SB100246,4181275182,Nomsa Khumalo,2025/11/23,Salary Deposit,5505.87,ATM,Johannesburg,Pending,Low
+SB100247,4128450513,Sipho Nkosi,2025/10/09,Debit Order,5054.89,ATM,Cape Town,Success,Medium
+SB100248,4148553376,Zanele Sithole,2025/05/27,International Payment,32662,Mobile App,Port Elizabeth,Success,High
+SB100249,4115006085,Lerato Dlamini,2025/08/02,Salary Deposit,4518.56,ATM,Johannesburg,Pending,Low
+SB100250,4148851599,Sipho Nkosi,2025/01/05,Cash Deposit,49858.73,Branch,Polokwane,Success,High
+SB100251,4196075494,Tebogo Mashego,2025/09/26,Debit Order,30159.01,Online Banking,Pretoria,Success,Medium
+SB100252,4125119192,Zanele Sithole,2025/03/25,International Payment,42560.43,Online Banking,Bloemfontein,Success,Medium
+SB100253,4149597485,Nandi Mbatha,2025/12/12,POS Purchase,12900.38,ATM,Pretoria,Failed,Low
+SB100254,4121641746,Kagiso Molefe,2025/12/09,Cash Deposit,30567.18,Mobile App,Pretoria,Flagged,High
+SB100255,4145002007,Kagiso Molefe,2025/05/01,International Payment,49085.18,Online Banking,Port Elizabeth,Success,High
+SB100256,4186890296,Sipho Nkosi,2025/05/14,Debit Order,13386.37,Branch,Bloemfontein,Pending,Low
+SB100257,4164414096,Tebogo Mashego,2025/12/27,EFT Payment,11853.31,Branch,Bloemfontein,Success,Low
+SB100258,4139410942,Lerato Dlamini,2025/09/02,Online Transfer,5914.92,ATM,Cape Town,Success,Low
+SB100259,4173193474,Tebogo Mashego,2025/12/07,Debit Order,37399.36,ATM,Port Elizabeth,Flagged,High
+SB100260,4158557943,Thabo Mokoena,2025/10/16,EFT Payment,12410.9,Mobile App,Johannesburg,Pending,Low
+SB100261,4154039203,Tebogo Mashego,2025/08/15,Salary Deposit,41447.26,Mobile App,Bloemfontein,Success,High
+SB100262,4178501420,Ayanda Zulu,2025/01/29,International Payment,10309.8,Online Banking,Pretoria,Success,Medium
+SB100263,4151361818,Sipho Nkosi,2025/07/22,International Payment,25686.73,Branch,Port Elizabeth,Flagged,High
+SB100264,4166867700,Zanele Sithole,2025/12/25,Salary Deposit,200.62,Mobile App,Polokwane,Success,Low
+SB100265,4148532662,Kagiso Molefe,2025/04/03,EFT Payment,49706.48,ATM,Port Elizabeth,Flagged,High
+SB100266,4170201634,Kagiso Molefe,2025/07/12,Cash Deposit,32094.17,Mobile App,Bloemfontein,Flagged,High
+SB100267,4133954324,Tebogo Mashego,2025/07/21,POS Purchase,48209.01,POS Terminal,Pretoria,Success,High
+SB100268,4150045602,Ayanda Zulu,2025/12/11,Salary Deposit,36406.51,POS Terminal,Cape Town,Flagged,High
+SB100269,4130820038,Bongani Ndlovu,2025/04/07,Salary Deposit,26620.08,Mobile App,Johannesburg,Failed,Low
+SB100270,4112099943,Nomsa Khumalo,2025/04/16,Cash Deposit,40483.44,Mobile App,Johannesburg,Flagged,High
+SB100271,4116533225,Nomsa Khumalo,2025/01/23,International Payment,29717.51,Online Banking,Cape Town,Flagged,High
+SB100272,4128808678,Tebogo Mashego,2025/05/29,Salary Deposit,11755.25,ATM,Port Elizabeth,Success,Medium
+SB100273,4153038943,Nomsa Khumalo,2025/06/04,Debit Order,45824.03,ATM,Bloemfontein,Flagged,High
+SB100274,4184721440,Nandi Mbatha,2025/03/31,Cash Deposit,26086.49,Online Banking,Polokwane,Success,Low
+SB100275,4161157708,Tebogo Mashego,2025/06/13,Debit Order,24806.26,Online Banking,Cape Town,Flagged,High
+SB100276,4173554620,Nomsa Khumalo,2025/04/26,Cash Deposit,7503.42,Branch,Port Elizabeth,Pending,Low
+SB100277,4165902739,Tebogo Mashego,2025/09/29,International Payment,35393.46,ATM,Cape Town,Flagged,High
+SB100278,4170369365,Zanele Sithole,2025/02/17,Salary Deposit,12180.78,POS Terminal,Bloemfontein,Success,Low
+SB100279,4191197624,Nandi Mbatha,2025/01/21,ATM Withdrawal,41478.84,Mobile App,Pretoria,Success,Medium
+SB100280,4154689713,Bongani Ndlovu,2025/01/08,Salary Deposit,40242.3,ATM,Pretoria,Flagged,High
+SB100281,4142560305,Nandi Mbatha,2025/12/27,EFT Payment,48105.77,ATM,Cape Town,Flagged,High
+SB100282,4181625307,Zanele Sithole,2025/06/07,Debit Order,45760.57,Branch,Durban,Success,High
+SB100283,4173013937,Zanele Sithole,2025/04/15,International Payment,25665.19,Branch,Durban,Flagged,High
+SB100284,4145000508,Tebogo Mashego,2025/10/27,Salary Deposit,20725.81,POS Terminal,Bloemfontein,Success,Medium
+SB100285,4160981231,Nandi Mbatha,2025/05/06,POS Purchase,20908.02,Online Banking,Polokwane,Success,Low
+SB100286,4175581613,Ayanda Zulu,2025/08/24,Debit Order,32747.67,ATM,Bloemfontein,Success,Medium
+SB100287,4183356206,Ayanda Zulu,2025/04/05,POS Purchase,39759.03,POS Terminal,Bloemfontein,Success,Medium
+SB100288,4199686372,Sipho Nkosi,2025/01/04,ATM Withdrawal,47863.98,Online Banking,Pretoria,Success,High
+SB100289,4130270856,Sipho Nkosi,2025/04/22,Salary Deposit,42135.11,POS Terminal,Cape Town,Success,Medium
+SB100290,4181432350,Tebogo Mashego,2025/07/30,International Payment,18691.37,Mobile App,Johannesburg,Success,High
+SB100291,4112300840,Tebogo Mashego,2025/12/24,Online Transfer,26494.41,Online Banking,Port Elizabeth,Failed,Low
+SB100292,4122927031,Tebogo Mashego,2025/03/18,POS Purchase,46988.61,ATM,Pretoria,Success,Medium
+SB100293,4163270536,Thabo Mokoena,2025/07/11,Online Transfer,31008.05,Online Banking,Cape Town,Success,High
+SB100294,4197742922,Sipho Nkosi,2025/02/17,Salary Deposit,28271.86,Online Banking,Cape Town,Success,Low
+SB100295,4111268380,Lerato Dlamini,2025/02/12,International Payment,18889.62,Online Banking,Port Elizabeth,Success,Medium
+SB100296,4180888325,Sipho Nkosi,2025/04/28,Debit Order,21723.79,ATM,Port Elizabeth,Success,Low
+SB100297,4119978827,Bongani Ndlovu,2025/10/06,International Payment,34629.77,POS Terminal,Bloemfontein,Success,Medium
+SB100298,4188790652,Lerato Dlamini,2025/12/31,Debit Order,1693.44,Online Banking,Johannesburg,Success,Low
+SB100299,4182553061,Zanele Sithole,2025/07/16,Salary Deposit,14998.88,ATM,Port Elizabeth,Failed,Low
+SB100300,4117207013,Thabo Mokoena,2025/08/12,EFT Payment,49424.47,ATM,Port Elizabeth,Flagged,High
+SB100301,4153805532,Sipho Nkosi,2025/11/21,Cash Deposit,3847.11,Branch,Port Elizabeth,Flagged,High
+SB100302,4184227466,Kagiso Molefe,2025/08/10,International Payment,49629.66,ATM,Bloemfontein,Success,Medium
+SB100303,4149645162,Nomsa Khumalo,2026/01/01,Cash Deposit,29314.46,Mobile App,Johannesburg,Pending,Low
+SB100304,4130706693,Kagiso Molefe,2025/06/12,Cash Deposit,13435.2,Branch,Johannesburg,Pending,Medium
+SB100305,4123721268,Lerato Dlamini,2025/02/14,Online Transfer,4621.45,ATM,Cape Town,Failed,Low
+SB100306,4157501571,Tebogo Mashego,2025/02/17,Cash Deposit,22469.74,POS Terminal,Polokwane,Success,Low
+SB100307,4165540647,Kagiso Molefe,2025/02/13,Cash Deposit,39232.71,POS Terminal,Pretoria,Success,Medium
+SB100308,4128634797,Bongani Ndlovu,2025/06/04,POS Purchase,28619.42,Branch,Cape Town,Success,Low
+SB100309,4150232066,Ayanda Zulu,2025/02/09,POS Purchase,7339.44,Branch,Durban,Failed,Low
+SB100310,4124357588,Lerato Dlamini,2025/06/05,International Payment,47213.9,Mobile App,Cape Town,Success,High
+SB100311,4169085720,Zanele Sithole,2025/08/09,Cash Deposit,16644.25,POS Terminal,Pretoria,Failed,Medium
+SB100312,4163450811,Zanele Sithole,2025/05/30,Salary Deposit,15056.74,Online Banking,Polokwane,Success,Low
+SB100313,4162738860,Zanele Sithole,2025/02/28,Debit Order,39109.62,POS Terminal,Pretoria,Flagged,High
+SB100314,4113612618,Ayanda Zulu,2025/12/29,POS Purchase,29631.74,ATM,Cape Town,Pending,Low
+SB100315,4164914054,Ayanda Zulu,2025/03/13,EFT Payment,39894.39,Branch,Pretoria,Flagged,High
+SB100316,4119927432,Ayanda Zulu,2025/11/03,POS Purchase,12671.45,Online Banking,Polokwane,Failed,Medium
+SB100317,4182062301,Nandi Mbatha,2025/11/23,Cash Deposit,20070.21,Mobile App,Johannesburg,Failed,Low
+SB100318,4192232236,Sipho Nkosi,2025/10/16,Debit Order,38459.25,Online Banking,Port Elizabeth,Success,Medium
+SB100319,4144727276,Nomsa Khumalo,2025/09/19,Cash Deposit,16613.26,POS Terminal,Polokwane,Success,Low
+SB100320,4172151291,Nandi Mbatha,2025/12/20,Salary Deposit,29046.89,POS Terminal,Pretoria,Failed,Low
+SB100321,4165831276,Thabo Mokoena,2025/03/01,ATM Withdrawal,17281.12,ATM,Durban,Failed,Low
+SB100322,4156748074,Ayanda Zulu,2025/02/19,International Payment,15628.92,Online Banking,Bloemfontein,Flagged,High
+SB100323,4115997257,Thabo Mokoena,2025/01/12,Debit Order,34853.33,Branch,Bloemfontein,Success,Medium
+SB100324,4142737441,Tebogo Mashego,2025/03/31,POS Purchase,5512.67,POS Terminal,Pretoria,Flagged,High
+SB100325,4141119124,Kagiso Molefe,2025/11/19,Cash Deposit,16582.93,ATM,Pretoria,Flagged,High
+SB100326,4136484437,Ayanda Zulu,2025/10/31,Cash Deposit,32041.92,Online Banking,Cape Town,Flagged,High
+SB100327,4118397164,Nandi Mbatha,2025/02/22,Salary Deposit,272.28,POS Terminal,Pretoria,Pending,Low
+SB100328,4175697427,Tebogo Mashego,2025/11/24,Salary Deposit,18321.36,Branch,Polokwane,Failed,Low
+SB100329,4157242616,Ayanda Zulu,2025/11/13,Cash Deposit,19462.53,ATM,Port Elizabeth,Failed,Low
+SB100330,4127978165,Zanele Sithole,2025/03/02,Online Transfer,33695.76,ATM,Durban,Flagged,High
+SB100331,4162138657,Kagiso Molefe,2025/11/02,Debit Order,5891.6,ATM,Polokwane,Pending,Low
+SB100332,4196605343,Lerato Dlamini,2025/10/12,POS Purchase,19216.31,ATM,Cape Town,Pending,Low
+SB100333,4193135800,Sipho Nkosi,2025/07/03,POS Purchase,14477.3,Mobile App,Cape Town,Failed,Low
+SB100334,4177838742,Ayanda Zulu,2025/07/29,Cash Deposit,6869.91,Online Banking,Cape Town,Flagged,High
+SB100335,4114142053,Nomsa Khumalo,2025/05/30,International Payment,35521.61,Mobile App,Durban,Success,High
+SB100336,4185920319,Ayanda Zulu,2025/10/09,Online Transfer,11280.93,POS Terminal,Johannesburg,Failed,Low
+SB100337,4182751830,Sipho Nkosi,2025/08/14,Online Transfer,28657.07,POS Terminal,Pretoria,Failed,Medium
+SB100338,4143223132,Bongani Ndlovu,2025/01/17,EFT Payment,49489.3,Online Banking,Durban,Flagged,High
+SB100339,4141802361,Nomsa Khumalo,2025/10/29,EFT Payment,17461.42,Branch,Port Elizabeth,Success,Low
+SB100340,4128687800,Nomsa Khumalo,2025/04/16,Cash Deposit,35552.16,Mobile App,Polokwane,Success,Medium
+SB100341,4153440052,Bongani Ndlovu,2025/05/29,Online Transfer,17573.23,POS Terminal,Durban,Success,Low
+SB100342,4165243509,Sipho Nkosi,2025/05/22,EFT Payment,47622.25,ATM,Bloemfontein,Success,Medium
+SB100343,4153231088,Nomsa Khumalo,2025/12/13,Salary Deposit,43310.64,Online Banking,Cape Town,Success,Medium
+SB100344,4170665302,Thabo Mokoena,2025/11/21,Online Transfer,7151.47,Mobile App,Cape Town,Failed,Low
+SB100345,4171028216,Ayanda Zulu,2025/06/17,Online Transfer,25804.89,POS Terminal,Johannesburg,Failed,Low
+SB100346,4199139874,Zanele Sithole,2025/02/02,EFT Payment,43451.94,POS Terminal,Cape Town,Flagged,High
+SB100347,4146042404,Zanele Sithole,2025/05/26,Cash Deposit,10930.61,Branch,Polokwane,Failed,Medium
+SB100348,4116497381,Sipho Nkosi,2025/02/20,International Payment,28917.79,Online Banking,Johannesburg,Flagged,High
+SB100349,4167418250,Nomsa Khumalo,2025/12/19,POS Purchase,6255.65,ATM,Bloemfontein,Success,Low
+SB100350,4143606680,Thabo Mokoena,2025/07/10,Online Transfer,15128.18,ATM,Johannesburg,Failed,Low
+SB100351,4167610401,Thabo Mokoena,2025/12/27,Online Transfer,19847.26,Mobile App,Johannesburg,Success,Medium
+SB100352,4179718627,Ayanda Zulu,2025/01/05,EFT Payment,10710.39,Mobile App,Bloemfontein,Success,Low
+SB100353,4166682016,Lerato Dlamini,2025/09/02,EFT Payment,17211.53,Mobile App,Pretoria,Flagged,High
+SB100354,4150165370,Lerato Dlamini,2025/07/15,EFT Payment,19184.34,ATM,Bloemfontein,Failed,Low
+SB100355,4185603667,Sipho Nkosi,2025/11/09,POS Purchase,49647.36,ATM,Cape Town,Success,Medium
+SB100356,4165258766,Nandi Mbatha,2025/12/18,Salary Deposit,17591.83,Online Banking,Port Elizabeth,Success,Low
+SB100357,4189131271,Kagiso Molefe,2025/06/29,EFT Payment,10901.37,Online Banking,Durban,Success,Low
+SB100358,4121307671,Nomsa Khumalo,2025/10/11,Salary Deposit,39564.28,POS Terminal,Polokwane,Success,Medium
+SB100359,4198369672,Bongani Ndlovu,2025/04/16,Online Transfer,36072.92,POS Terminal,Polokwane,Flagged,High
+SB100360,4142123815,Ayanda Zulu,2025/07/17,Cash Deposit,25500.65,Mobile App,Pretoria,Success,Low
+SB100361,4158465780,Zanele Sithole,2025/03/09,EFT Payment,25004.15,Online Banking,Port Elizabeth,Success,Low
+SB100362,4173218512,Thabo Mokoena,2025/01/09,Cash Deposit,41956.72,POS Terminal,Johannesburg,Flagged,High
+SB100363,4163415303,Tebogo Mashego,2025/05/27,Salary Deposit,738.98,POS Terminal,Port Elizabeth,Success,Low
+SB100364,4182162880,Nandi Mbatha,2025/03/20,Cash Deposit,20800.83,Branch,Johannesburg,Pending,Low
+SB100365,4130854365,Tebogo Mashego,2025/06/17,Salary Deposit,15529.85,Online Banking,Polokwane,Flagged,High
+SB100366,4142029368,Sipho Nkosi,2025/05/06,EFT Payment,31733,Mobile App,Cape Town,Flagged,High
+SB100367,4198322292,Lerato Dlamini,2025/03/03,ATM Withdrawal,5843.53,Mobile App,Bloemfontein,Pending,Low
+SB100368,4180196591,Tebogo Mashego,2025/05/13,ATM Withdrawal,6903.73,ATM,Durban,Failed,Low
+SB100369,4113940129,Zanele Sithole,2025/08/08,Online Transfer,6390.18,Branch,Polokwane,Success,Medium
+SB100370,4158335011,Sipho Nkosi,2025/09/13,EFT Payment,3240.41,POS Terminal,Pretoria,Pending,Low
+SB100371,4125479814,Nomsa Khumalo,2025/09/18,Online Transfer,18416,Mobile App,Johannesburg,Pending,Medium
+SB100372,4173319171,Zanele Sithole,2025/07/16,ATM Withdrawal,42941.52,ATM,Pretoria,Success,Medium
+SB100373,4198007006,Kagiso Molefe,2025/04/25,ATM Withdrawal,46561.45,Branch,Pretoria,Flagged,High
+SB100374,4186710258,Zanele Sithole,2025/03/03,Debit Order,20842.02,POS Terminal,Bloemfontein,Success,Low
+SB100375,4179226031,Sipho Nkosi,2025/07/25,POS Purchase,45101.95,Mobile App,Cape Town,Success,Medium
+SB100376,4111069604,Zanele Sithole,2025/04/13,Online Transfer,43308.31,Branch,Polokwane,Flagged,High
+SB100377,4176217748,Nomsa Khumalo,2025/10/07,Salary Deposit,39236.14,ATM,Pretoria,Flagged,High
+SB100378,4156496201,Sipho Nkosi,2025/06/21,Cash Deposit,368.58,Mobile App,Port Elizabeth,Pending,Low
+SB100379,4181110496,Nomsa Khumalo,2025/08/03,Online Transfer,32882.33,Online Banking,Johannesburg,Success,Medium
+SB100380,4141067722,Tebogo Mashego,2025/07/31,POS Purchase,48629.33,Branch,Cape Town,Success,High
+SB100381,4195525640,Kagiso Molefe,2025/02/08,EFT Payment,48729.01,POS Terminal,Polokwane,Flagged,High
+SB100382,4152279780,Kagiso Molefe,2025/12/25,POS Purchase,3161.03,Branch,Durban,Failed,Low
+SB100383,4128268622,Nandi Mbatha,2025/02/25,Salary Deposit,22665.25,ATM,Johannesburg,Success,Low
+SB100384,4158088526,Nomsa Khumalo,2025/08/20,International Payment,8260.53,Branch,Cape Town,Success,High
+SB100385,4150831043,Nandi Mbatha,2025/01/21,EFT Payment,13287.15,ATM,Port Elizabeth,Pending,Low
+SB100386,4143315361,Zanele Sithole,2025/07/22,POS Purchase,42835.83,POS Terminal,Johannesburg,Success,Medium
+SB100387,4164276605,Ayanda Zulu,2025/10/12,Online Transfer,33875.31,POS Terminal,Pretoria,Success,High
+SB100388,4126301180,Sipho Nkosi,2025/02/01,EFT Payment,4781.53,ATM,Pretoria,Success,Medium
+SB100389,4196528158,Thabo Mokoena,2025/10/26,Cash Deposit,9946.75,POS Terminal,Durban,Pending,Low
+SB100390,4118653290,Nomsa Khumalo,2025/11/27,EFT Payment,45875.56,Online Banking,Port Elizabeth,Success,Medium
+SB100391,4116796477,Lerato Dlamini,2025/10/21,Debit Order,6483.14,Online Banking,Port Elizabeth,Failed,Low
+SB100392,4167265875,Lerato Dlamini,2025/07/01,International Payment,36235.32,ATM,Pretoria,Success,Medium
+SB100393,4193104469,Nandi Mbatha,2025/05/06,International Payment,13785.34,Branch,Cape Town,Success,High
+SB100394,4147550897,Kagiso Molefe,2025/03/12,International Payment,20629.01,Online Banking,Pretoria,Success,Medium
+SB100395,4112621269,Kagiso Molefe,2026/01/01,Salary Deposit,32150.49,Branch,Cape Town,Flagged,High
+SB100396,4153165014,Kagiso Molefe,2025/05/19,International Payment,27248.66,ATM,Johannesburg,Flagged,High
+SB100397,4117863981,Ayanda Zulu,2025/09/29,Salary Deposit,15977.93,Branch,Port Elizabeth,Failed,Low
+SB100398,4123439803,Nomsa Khumalo,2025/12/03,Salary Deposit,29220.25,ATM,Durban,Flagged,High
+SB100399,4187268086,Kagiso Molefe,2025/07/01,ATM Withdrawal,26707.79,ATM,Pretoria,Success,Medium
+SB100400,4158155056,Nandi Mbatha,2025/01/15,Debit Order,11865.73,Branch,Polokwane,Pending,Medium
+SB100401,4182762732,Bongani Ndlovu,2025/03/31,Salary Deposit,28202.14,Online Banking,Johannesburg,Failed,Medium
+SB100402,4180658723,Ayanda Zulu,2025/01/01,Salary Deposit,4558.36,Branch,Polokwane,Success,Low
+SB100403,4153431355,Sipho Nkosi,2025/01/12,POS Purchase,10113.15,ATM,Polokwane,Success,Low
+SB100404,4158974686,Thabo Mokoena,2025/07/11,POS Purchase,35249.58,Online Banking,Polokwane,Flagged,High
+SB100405,4168635481,Ayanda Zulu,2025/11/29,Online Transfer,5096.56,Branch,Pretoria,Success,Low
+SB100406,4189047551,Lerato Dlamini,2025/07/13,Debit Order,35373.79,Branch,Bloemfontein,Success,Medium
+SB100407,4110241310,Nandi Mbatha,2025/07/20,POS Purchase,34440.5,POS Terminal,Johannesburg,Success,Medium
+SB100408,4192058189,Nomsa Khumalo,2025/11/24,Debit Order,9144.98,POS Terminal,Johannesburg,Flagged,High
+SB100409,4156548066,Zanele Sithole,2025/03/27,POS Purchase,46837.56,Mobile App,Port Elizabeth,Success,High
+SB100410,4143492807,Thabo Mokoena,2025/06/29,Debit Order,35462.84,Branch,Port Elizabeth,Success,High
+SB100411,4166324902,Lerato Dlamini,2025/07/31,ATM Withdrawal,5446.33,Online Banking,Cape Town,Failed,Low
+SB100412,4187585294,Nomsa Khumalo,2025/03/25,Cash Deposit,17594,Online Banking,Johannesburg,Failed,Low
+SB100413,4152777459,Bongani Ndlovu,2025/02/23,ATM Withdrawal,39969.77,Mobile App,Durban,Success,Medium
+SB100414,4183423305,Thabo Mokoena,2025/06/23,Cash Deposit,8546.75,POS Terminal,Polokwane,Success,Low
+SB100415,4191512791,Kagiso Molefe,2025/03/22,ATM Withdrawal,44666.65,Mobile App,Johannesburg,Flagged,High
+SB100416,4182494408,Bongani Ndlovu,2025/12/05,Salary Deposit,16588.17,Branch,Durban,Pending,Low
+SB100417,4175893962,Lerato Dlamini,2025/01/28,ATM Withdrawal,11915.54,Branch,Johannesburg,Pending,Low
+SB100418,4190559564,Ayanda Zulu,2025/04/13,Online Transfer,21408.92,Mobile App,Johannesburg,Pending,Medium
+SB100419,4173561576,Thabo Mokoena,2025/06/07,Online Transfer,10387.3,Online Banking,Cape Town,Flagged,High
+SB100420,4162013009,Lerato Dlamini,2025/07/09,Online Transfer,24480.39,Online Banking,Durban,Pending,Low
+SB100421,4145353058,Nomsa Khumalo,2025/05/18,ATM Withdrawal,9369.82,POS Terminal,Johannesburg,Failed,Low
+SB100422,4182672055,Kagiso Molefe,2025/10/29,EFT Payment,7598.98,ATM,Polokwane,Failed,Low
+SB100423,4181875527,Ayanda Zulu,2025/10/21,Cash Deposit,3096.14,ATM,Cape Town,Failed,Medium
+SB100424,4114661179,Tebogo Mashego,2025/10/20,Cash Deposit,14977.66,POS Terminal,Port Elizabeth,Flagged,High
+SB100425,4133203422,Lerato Dlamini,2025/04/19,POS Purchase,28595.7,ATM,Pretoria,Failed,Low
+SB100426,4168437492,Nomsa Khumalo,2025/11/18,EFT Payment,2181.66,ATM,Port Elizabeth,Flagged,High
+SB100427,4118994192,Thabo Mokoena,2025/07/18,Debit Order,29772.63,POS Terminal,Cape Town,Flagged,High
+SB100428,4193625419,Nandi Mbatha,2025/09/25,Online Transfer,27625.11,Online Banking,Johannesburg,Success,Low
+SB100429,4123449152,Thabo Mokoena,2025/10/16,POS Purchase,20751.4,Mobile App,Port Elizabeth,Pending,Low
+SB100430,4161411224,Ayanda Zulu,2025/10/20,Debit Order,14340.34,POS Terminal,Cape Town,Failed,Medium
+SB100431,4191692326,Kagiso Molefe,2025/01/20,Online Transfer,1921.41,Online Banking,Durban,Pending,Low
+SB100432,4159988144,Sipho Nkosi,2025/06/22,ATM Withdrawal,34541.16,Branch,Durban,Flagged,High
+SB100433,4140595926,Lerato Dlamini,2025/06/03,International Payment,14053.32,Online Banking,Port Elizabeth,Flagged,High
+SB100434,4121983878,Nomsa Khumalo,2025/08/15,Online Transfer,41299.88,ATM,Port Elizabeth,Flagged,High
+SB100435,4117543817,Tebogo Mashego,2025/03/23,International Payment,20388.16,Mobile App,Durban,Flagged,High
+SB100436,4180368504,Nandi Mbatha,2025/01/15,Cash Deposit,35492.99,ATM,Pretoria,Success,Medium
+SB100437,4171263503,Sipho Nkosi,2025/07/04,Salary Deposit,43765.27,ATM,Durban,Success,High
+SB100438,4126625933,Sipho Nkosi,2025/05/04,International Payment,18449.18,Branch,Cape Town,Flagged,High
+SB100439,4173697356,Nandi Mbatha,2025/10/10,POS Purchase,29722.48,Branch,Durban,Flagged,High
+SB100440,4122132198,Bongani Ndlovu,2025/01/15,Online Transfer,8217.51,Online Banking,Johannesburg,Pending,Medium
+SB100441,4140214026,Nomsa Khumalo,2025/05/18,Salary Deposit,8187.22,Online Banking,Polokwane,Pending,Medium
+SB100442,4196888739,Lerato Dlamini,2025/11/04,ATM Withdrawal,1051.62,Mobile App,Pretoria,Success,Low
+SB100443,4196267144,Bongani Ndlovu,2025/08/05,Online Transfer,12656.9,Online Banking,Port Elizabeth,Pending,Medium
+SB100444,4179878835,Nandi Mbatha,2025/07/23,Online Transfer,17468.02,POS Terminal,Johannesburg,Failed,Low
+SB100445,4191745321,Bongani Ndlovu,2025/06/02,Debit Order,417.01,Mobile App,Cape Town,Pending,Low
+SB100446,4145050544,Bongani Ndlovu,2025/04/07,Online Transfer,3238.66,ATM,Polokwane,Failed,Low
+SB100447,4190535106,Kagiso Molefe,2025/12/05,ATM Withdrawal,38285.45,Branch,Bloemfontein,Flagged,High
+SB100448,4144819604,Kagiso Molefe,2025/07/27,ATM Withdrawal,7039.48,Online Banking,Bloemfontein,Failed,Low
+SB100449,4139845082,Tebogo Mashego,2025/11/23,Salary Deposit,1814.18,Online Banking,Bloemfontein,Pending,Low
+SB100450,4184926784,Lerato Dlamini,2025/05/31,Online Transfer,17956.93,Mobile App,Cape Town,Pending,Medium
+SB100451,4134571018,Zanele Sithole,2025/12/02,Online Transfer,6440.81,Mobile App,Pretoria,Pending,Medium
+SB100452,4159886371,Bongani Ndlovu,2025/10/27,Online Transfer,17796.41,Branch,Cape Town,Failed,Low
+SB100453,4195147289,Nandi Mbatha,2025/10/25,International Payment,42568.13,POS Terminal,Johannesburg,Success,Medium
+SB100454,4161226775,Tebogo Mashego,2025/06/02,Salary Deposit,23637.37,Online Banking,Johannesburg,Pending,Low
+SB100455,4136883353,Zanele Sithole,2025/07/29,POS Purchase,43548.91,POS Terminal,Cape Town,Success,Medium
+SB100456,4154644768,Lerato Dlamini,2025/06/10,POS Purchase,7204.05,Mobile App,Johannesburg,Failed,Medium
+SB100457,4187346846,Lerato Dlamini,2025/09/08,Salary Deposit,22630.06,Mobile App,Pretoria,Success,Medium
+SB100458,4161447859,Sipho Nkosi,2025/01/20,Cash Deposit,30743.26,POS Terminal,Pretoria,Flagged,High
+SB100459,4181274148,Nomsa Khumalo,2025/01/10,ATM Withdrawal,36546.42,Mobile App,Bloemfontein,Flagged,High
+SB100460,4127304799,Thabo Mokoena,2025/07/16,Salary Deposit,36693.48,POS Terminal,Polokwane,Success,High
+SB100461,4149034245,Ayanda Zulu,2025/09/24,EFT Payment,15340.45,POS Terminal,Polokwane,Failed,Medium
+SB100462,4158217837,Nomsa Khumalo,2025/03/26,POS Purchase,16924.87,Online Banking,Johannesburg,Failed,Low
+SB100463,4189147232,Tebogo Mashego,2025/03/28,POS Purchase,11459.49,Mobile App,Durban,Success,Low
+SB100464,4181770706,Nandi Mbatha,2025/01/25,ATM Withdrawal,35569.95,POS Terminal,Johannesburg,Flagged,High
+SB100465,4125541047,Kagiso Molefe,2025/08/16,ATM Withdrawal,33115.4,Online Banking,Johannesburg,Success,Medium
+SB100466,4194598956,Sipho Nkosi,2025/06/04,International Payment,27386.76,Online Banking,Bloemfontein,Success,High
+SB100467,4128409776,Kagiso Molefe,2025/02/23,Online Transfer,5093.94,POS Terminal,Bloemfontein,Pending,Low
+SB100468,4124262473,Ayanda Zulu,2025/04/12,Online Transfer,30904.01,POS Terminal,Pretoria,Success,Medium
+SB100469,4131524980,Sipho Nkosi,2025/10/08,Salary Deposit,38909.05,Online Banking,Pretoria,Flagged,High
+SB100470,4121945758,Thabo Mokoena,2025/10/21,International Payment,34425.79,Online Banking,Pretoria,Success,High
+SB100471,4144345256,Nomsa Khumalo,2025/08/22,EFT Payment,47474.83,Branch,Durban,Success,High
+SB100472,4148999266,Zanele Sithole,2025/12/13,EFT Payment,23240.65,Branch,Cape Town,Success,Medium
+SB100473,4111298197,Lerato Dlamini,2025/12/06,EFT Payment,36940.08,ATM,Durban,Flagged,High
+SB100474,4122475714,Zanele Sithole,2025/06/25,International Payment,17908.49,ATM,Johannesburg,Success,High
+SB100475,4161769856,Ayanda Zulu,2025/08/04,International Payment,20068.84,ATM,Johannesburg,Success,Medium
+SB100476,4131393688,Thabo Mokoena,2025/08/02,ATM Withdrawal,6668.95,POS Terminal,Cape Town,Flagged,High
+SB100477,4160969286,Zanele Sithole,2025/11/10,International Payment,40123.13,Mobile App,Port Elizabeth,Success,Medium
+SB100478,4165201639,Ayanda Zulu,2025/01/24,POS Purchase,34238.98,Mobile App,Durban,Flagged,High
+SB100479,4187396519,Nandi Mbatha,2025/04/25,ATM Withdrawal,32765.93,Branch,Polokwane,Flagged,High
+SB100480,4143363439,Ayanda Zulu,2025/06/27,EFT Payment,26179,Online Banking,Pretoria,Pending,Low
+SB100481,4131062435,Tebogo Mashego,2025/08/29,ATM Withdrawal,41959.7,Online Banking,Port Elizabeth,Success,Medium
+SB100482,4147333618,Sipho Nkosi,2025/09/17,International Payment,8311.92,ATM,Polokwane,Success,High
+SB100483,4169618021,Nandi Mbatha,2025/08/18,Cash Deposit,32183.7,Mobile App,Port Elizabeth,Success,High
+SB100484,4197694240,Sipho Nkosi,2025/02/22,Debit Order,24947.88,Online Banking,Cape Town,Failed,Low
+SB100485,4193089652,Bongani Ndlovu,2025/09/18,ATM Withdrawal,1839.81,POS Terminal,Pretoria,Pending,Medium
+SB100486,4117284695,Nomsa Khumalo,2025/08/21,International Payment,32747.07,Branch,Polokwane,Success,High
+SB100487,4170737878,Thabo Mokoena,2025/02/19,International Payment,38382.45,ATM,Johannesburg,Success,High
+SB100488,4124270328,Sipho Nkosi,2025/03/26,Online Transfer,17100.79,Online Banking,Pretoria,Failed,Low
+SB100489,4191987136,Nomsa Khumalo,2025/04/07,Cash Deposit,41100.84,Mobile App,Port Elizabeth,Success,Medium
+SB100490,4155356673,Thabo Mokoena,2025/08/01,International Payment,19675.18,Mobile App,Bloemfontein,Success,High
+SB100491,4198376561,Nandi Mbatha,2025/09/16,EFT Payment,41881.44,ATM,Cape Town,Flagged,High
+SB100492,4188533572,Ayanda Zulu,2025/09/18,ATM Withdrawal,266.66,ATM,Bloemfontein,Failed,Low
+SB100493,4190603922,Nandi Mbatha,2025/06/14,POS Purchase,28948.79,POS Terminal,Cape Town,Pending,Low
+SB100494,4149483304,Ayanda Zulu,2025/03/10,Salary Deposit,20962.3,ATM,Cape Town,Failed,Low
+SB100495,4152132393,Tebogo Mashego,2025/11/20,Online Transfer,30146.1,ATM,Pretoria,Flagged,High
+SB100496,4127806897,Lerato Dlamini,2025/09/15,Online Transfer,10525.15,POS Terminal,Bloemfontein,Pending,Low
+SB100497,4188222933,Nandi Mbatha,2025/12/08,EFT Payment,31862.03,Online Banking,Bloemfontein,Flagged,High
+SB100498,4111714029,Tebogo Mashego,2025/02/24,Online Transfer,37406.04,Mobile App,Cape Town,Flagged,High
+SB100499,4148468887,Bongani Ndlovu,2025/03/16,ATM Withdrawal,7309.07,Mobile App,Bloemfontein,Success,Low
+SB100500,4170746206,Thabo Mokoena,2025/11/12,Salary Deposit,39228.65,POS Terminal,Port Elizabeth,Success,High
+SB100501,4148606206,Sipho Nkosi,2025/07/15,Cash Deposit,11254.15,Online Banking,Cape Town,Pending,Low
+SB100502,4143734435,Nomsa Khumalo,2025/11/14,Debit Order,47837.26,Online Banking,Port Elizabeth,Success,High
+SB100503,4190985229,Nomsa Khumalo,2025/04/10,Debit Order,11316.15,Branch,Cape Town,Pending,Medium
+SB100504,4178967357,Thabo Mokoena,2025/07/13,EFT Payment,8912.42,Mobile App,Cape Town,Success,Low
+SB100505,4144227688,Sipho Nkosi,2025/06/19,Online Transfer,13991.66,Online Banking,Bloemfontein,Pending,Low
+SB100506,4153302669,Nandi Mbatha,2025/01/27,ATM Withdrawal,46877.85,POS Terminal,Port Elizabeth,Success,Medium
+SB100507,4119781894,Zanele Sithole,2025/09/27,International Payment,33111.42,ATM,Pretoria,Flagged,High
+SB100508,4164145722,Thabo Mokoena,2025/06/28,POS Purchase,26054.28,ATM,Pretoria,Pending,Low
+SB100509,4192984217,Tebogo Mashego,2025/09/01,Debit Order,33183.56,POS Terminal,Port Elizabeth,Success,High
+SB100510,4156440312,Ayanda Zulu,2025/05/04,ATM Withdrawal,37619.08,POS Terminal,Polokwane,Success,Medium
+SB100511,4161186964,Thabo Mokoena,2025/07/17,ATM Withdrawal,12229.17,Branch,Polokwane,Failed,Low
+SB100512,4160326016,Tebogo Mashego,2025/09/18,ATM Withdrawal,36212.58,Online Banking,Cape Town,Flagged,High
+SB100513,4122879054,Lerato Dlamini,2025/10/03,Salary Deposit,2240.39,POS Terminal,Johannesburg,Success,Low
+SB100514,4166936428,Thabo Mokoena,2025/04/16,Salary Deposit,31365.31,POS Terminal,Port Elizabeth,Flagged,High
+SB100515,4130636590,Sipho Nkosi,2025/08/24,Cash Deposit,35152.01,Branch,Johannesburg,Flagged,High
+SB100516,4184904794,Thabo Mokoena,2025/10/22,ATM Withdrawal,4421.67,ATM,Durban,Failed,Low
+SB100517,4112267067,Kagiso Molefe,2025/12/11,International Payment,20411.26,Mobile App,Polokwane,Flagged,High
+SB100518,4116109168,Thabo Mokoena,2025/07/03,EFT Payment,344.65,POS Terminal,Johannesburg,Pending,Medium
+SB100519,4168743898,Kagiso Molefe,2025/07/22,Online Transfer,14527.34,Mobile App,Cape Town,Failed,Low
+SB100520,4183245898,Bongani Ndlovu,2025/11/21,Salary Deposit,7858.36,ATM,Durban,Failed,Low
+SB100521,4184500200,Lerato Dlamini,2025/03/05,Debit Order,33880.59,Mobile App,Johannesburg,Success,High
+SB100522,4150894954,Nomsa Khumalo,2025/06/26,Cash Deposit,28657.29,ATM,Cape Town,Success,Low
+SB100523,4139633659,Nandi Mbatha,2025/05/10,POS Purchase,45286.12,ATM,Johannesburg,Success,Medium
+SB100524,4171909967,Tebogo Mashego,2025/02/07,ATM Withdrawal,9108.83,Branch,Bloemfontein,Pending,Medium
+SB100525,4175389589,Zanele Sithole,2025/07/02,EFT Payment,3414.77,ATM,Bloemfontein,Pending,Low
+SB100526,4119369589,Nomsa Khumalo,2025/06/12,EFT Payment,32790.88,Online Banking,Cape Town,Success,Medium
+SB100527,4185907105,Nandi Mbatha,2025/07/06,Online Transfer,16450.89,Branch,Cape Town,Success,Low
+SB100528,4196011893,Kagiso Molefe,2025/05/22,Debit Order,8473.54,Branch,Pretoria,Success,Low
+SB100529,4158149482,Bongani Ndlovu,2025/09/07,Debit Order,33995.03,POS Terminal,Johannesburg,Flagged,High
+SB100530,4182292089,Nomsa Khumalo,2025/05/15,EFT Payment,8829.72,Mobile App,Bloemfontein,Success,Medium
+SB100531,4114186818,Nandi Mbatha,2025/10/24,ATM Withdrawal,3816.23,Online Banking,Port Elizabeth,Pending,Medium
+SB100532,4182434236,Ayanda Zulu,2025/12/01,ATM Withdrawal,29522.31,ATM,Durban,Pending,Low
+SB100533,4178506338,Thabo Mokoena,2025/07/23,Online Transfer,19655.29,Branch,Polokwane,Pending,Low
+SB100534,4132259144,Tebogo Mashego,2025/03/13,Salary Deposit,579.05,Online Banking,Pretoria,Pending,Medium
+SB100535,4158156722,Sipho Nkosi,2025/04/23,POS Purchase,8998.3,Online Banking,Pretoria,Failed,Medium
+SB100536,4137752746,Tebogo Mashego,2025/07/04,Debit Order,3189.92,Online Banking,Cape Town,Pending,Low
+SB100537,4197043518,Zanele Sithole,2025/02/22,ATM Withdrawal,45899.2,POS Terminal,Bloemfontein,Success,Medium
+SB100538,4160554391,Kagiso Molefe,2025/07/07,Online Transfer,41490.88,POS Terminal,Bloemfontein,Flagged,High
+SB100539,4139917031,Tebogo Mashego,2025/07/27,EFT Payment,44916.42,Branch,Port Elizabeth,Success,High
+SB100540,4110885526,Tebogo Mashego,2025/03/13,International Payment,43392.59,Online Banking,Pretoria,Flagged,High
+SB100541,4131120146,Zanele Sithole,2025/11/05,Online Transfer,11538.04,Mobile App,Bloemfontein,Success,Low
+SB100542,4174265413,Ayanda Zulu,2025/04/18,Debit Order,11555.8,POS Terminal,Pretoria,Failed,Medium
+SB100543,4115790734,Lerato Dlamini,2025/10/21,Cash Deposit,32380.6,POS Terminal,Pretoria,Success,Medium
+SB100544,4117504382,Lerato Dlamini,2025/05/13,ATM Withdrawal,6779.47,ATM,Polokwane,Success,Medium
+SB100545,4148044635,Thabo Mokoena,2025/04/21,ATM Withdrawal,47914,Online Banking,Polokwane,Flagged,High
+SB100546,4165132193,Nandi Mbatha,2025/03/15,International Payment,49639.15,POS Terminal,Port Elizabeth,Success,Medium
+SB100547,4155992559,Ayanda Zulu,2025/11/02,Online Transfer,38386.13,POS Terminal,Johannesburg,Success,Medium
+SB100548,4137158762,Tebogo Mashego,2025/09/16,Cash Deposit,11529.2,Online Banking,Port Elizabeth,Success,Low
+SB100549,4190505645,Sipho Nkosi,2025/09/30,EFT Payment,7520.58,POS Terminal,Port Elizabeth,Pending,Low
+SB100550,4182381739,Sipho Nkosi,2025/12/14,International Payment,5919.94,Online Banking,Polokwane,Flagged,High
+SB100551,4140801123,Ayanda Zulu,2025/07/15,ATM Withdrawal,21063.17,Branch,Polokwane,Failed,Low
+SB100552,4141207351,Thabo Mokoena,2025/05/26,EFT Payment,40240.82,POS Terminal,Polokwane,Success,High
+SB100553,4110954835,Nandi Mbatha,2025/09/25,Salary Deposit,20461.9,Mobile App,Polokwane,Pending,Low
+SB100554,4164874257,Zanele Sithole,2025/02/24,Salary Deposit,409.34,ATM,Cape Town,Failed,Low
+SB100555,4181954780,Kagiso Molefe,2025/10/17,Online Transfer,32596.22,Branch,Polokwane,Success,Medium
+SB100556,4184102271,Tebogo Mashego,2025/09/05,Cash Deposit,13814.25,ATM,Durban,Failed,Medium
+SB100557,4151158280,Nandi Mbatha,2025/06/26,International Payment,27976.74,Online Banking,Bloemfontein,Success,Medium
+SB100558,4131715773,Thabo Mokoena,2025/04/20,EFT Payment,6946.52,POS Terminal,Cape Town,Failed,Medium
+SB100559,4195345915,Sipho Nkosi,2025/02/16,ATM Withdrawal,39314.75,ATM,Cape Town,Success,Medium
+SB100560,4145311610,Nomsa Khumalo,2025/07/09,Cash Deposit,46296.8,Mobile App,Polokwane,Success,Medium
+SB100561,4163773642,Nandi Mbatha,2025/12/02,Cash Deposit,1935.88,POS Terminal,Durban,Flagged,High
+SB100562,4195938445,Ayanda Zulu,2025/08/13,ATM Withdrawal,35594.71,Mobile App,Pretoria,Flagged,High
+SB100563,4190465529,Tebogo Mashego,2025/09/22,Online Transfer,42535.85,ATM,Polokwane,Success,Medium
+SB100564,4110038556,Lerato Dlamini,2025/02/14,ATM Withdrawal,8515.67,Branch,Port Elizabeth,Pending,Low
+SB100565,4179490249,Sipho Nkosi,2025/12/27,Cash Deposit,20001.71,Mobile App,Johannesburg,Success,Low
+SB100566,4140372869,Nandi Mbatha,2025/04/10,Debit Order,27502.15,Online Banking,Cape Town,Failed,Low
+SB100567,4124289484,Tebogo Mashego,2025/02/07,Online Transfer,28766.59,POS Terminal,Durban,Pending,Low
+SB100568,4182196170,Nandi Mbatha,2025/05/09,EFT Payment,17031.3,Online Banking,Cape Town,Failed,Medium
+SB100569,4171836850,Nandi Mbatha,2025/01/15,Salary Deposit,28180.27,Online Banking,Johannesburg,Failed,Medium
+SB100570,4140860700,Zanele Sithole,2025/07/31,Cash Deposit,12928.1,Branch,Polokwane,Success,Low
+SB100571,4163543563,Zanele Sithole,2025/02/08,Online Transfer,26805.81,POS Terminal,Pretoria,Success,Low
+SB100572,4146114740,Lerato Dlamini,2025/12/16,Debit Order,23853.94,ATM,Cape Town,Pending,Low
+SB100573,4137753358,Nomsa Khumalo,2025/04/14,Salary Deposit,36868.76,ATM,Port Elizabeth,Flagged,High
+SB100574,4120534423,Ayanda Zulu,2025/11/11,POS Purchase,30948.92,Mobile App,Port Elizabeth,Success,High
+SB100575,4152334540,Ayanda Zulu,2025/10/22,ATM Withdrawal,42861.61,Branch,Cape Town,Success,High
+SB100576,4127212880,Sipho Nkosi,2025/09/27,Online Transfer,9184.45,Online Banking,Cape Town,Pending,Low
+SB100577,4133461307,Ayanda Zulu,2025/03/03,ATM Withdrawal,46985.74,POS Terminal,Cape Town,Success,High
+SB100578,4160925964,Nandi Mbatha,2025/02/21,ATM Withdrawal,15816.78,Branch,Durban,Success,Low
+SB100579,4145279000,Nomsa Khumalo,2025/05/18,Online Transfer,30658.27,Online Banking,Polokwane,Success,Medium
+SB100580,4166249702,Zanele Sithole,2025/07/06,POS Purchase,17187.67,Online Banking,Durban,Success,Low
+SB100581,4140677709,Thabo Mokoena,2025/05/19,POS Purchase,22563.91,ATM,Polokwane,Flagged,High
+SB100582,4130072000,Ayanda Zulu,2025/01/05,Cash Deposit,21639.33,ATM,Cape Town,Pending,Low
+SB100583,4143685164,Tebogo Mashego,2025/10/18,Debit Order,25004.91,Mobile App,Cape Town,Failed,Medium
+SB100584,4173960038,Thabo Mokoena,2025/08/19,POS Purchase,4993.79,Branch,Durban,Failed,Low
+SB100585,4126272220,Zanele Sithole,2025/12/14,Online Transfer,18080.05,POS Terminal,Pretoria,Failed,Low
+SB100586,4148199537,Zanele Sithole,2025/06/16,POS Purchase,28863.85,POS Terminal,Cape Town,Flagged,High
+SB100587,4148456543,Ayanda Zulu,2025/11/20,International Payment,38748.48,ATM,Port Elizabeth,Success,High
+SB100588,4186723896,Kagiso Molefe,2025/02/06,Debit Order,8420.4,Mobile App,Pretoria,Pending,Low
+SB100589,4145899536,Nandi Mbatha,2025/11/27,Debit Order,17214.09,Online Banking,Durban,Failed,Low
+SB100590,4170436720,Kagiso Molefe,2025/03/27,Debit Order,44390.21,ATM,Port Elizabeth,Flagged,High
+SB100591,4120746107,Nomsa Khumalo,2025/03/27,Salary Deposit,1203.9,Online Banking,Johannesburg,Pending,Low
+SB100592,4163286118,Tebogo Mashego,2025/02/12,International Payment,4822.91,Mobile App,Durban,Success,High
+SB100593,4151523026,Nomsa Khumalo,2025/05/07,EFT Payment,30924.2,Branch,Cape Town,Flagged,High
+SB100594,4114718421,Zanele Sithole,2025/06/16,POS Purchase,31342.71,Online Banking,Cape Town,Success,High
+SB100595,4182381952,Lerato Dlamini,2025/10/30,Online Transfer,48750.33,POS Terminal,Cape Town,Success,High
+SB100596,4151562039,Zanele Sithole,2025/09/04,Cash Deposit,31570.82,POS Terminal,Pretoria,Flagged,High
+SB100597,4130900054,Bongani Ndlovu,2025/01/06,International Payment,40245.15,Mobile App,Polokwane,Flagged,High
+SB100598,4111116303,Ayanda Zulu,2025/09/02,POS Purchase,40778.22,Branch,Johannesburg,Flagged,High
+SB100599,4183579795,Zanele Sithole,2025/04/07,Online Transfer,38305.17,Online Banking,Polokwane,Flagged,High
+SB100600,4196703417,Kagiso Molefe,2025/07/13,Salary Deposit,21883.46,ATM,Durban,Pending,Low
+SB100601,4146489118,Bongani Ndlovu,2025/11/29,Salary Deposit,4006.53,POS Terminal,Port Elizabeth,Pending,Low
+SB100602,4128337367,Bongani Ndlovu,2025/02/26,Salary Deposit,13477.66,Online Banking,Polokwane,Success,Medium
+SB100603,4112603206,Lerato Dlamini,2025/01/26,International Payment,22665.72,POS Terminal,Johannesburg,Success,Medium
+SB100604,4168843284,Sipho Nkosi,2025/04/30,EFT Payment,9337.58,Mobile App,Pretoria,Success,Low
+SB100605,4176893545,Zanele Sithole,2025/08/26,Salary Deposit,785.51,Mobile App,Durban,Failed,Low
+SB100606,4119581091,Tebogo Mashego,2025/08/29,POS Purchase,4057.14,ATM,Pretoria,Failed,Low
+SB100607,4126369402,Nomsa Khumalo,2025/07/17,Online Transfer,44790.16,Online Banking,Pretoria,Flagged,High
+SB100608,4122611138,Tebogo Mashego,2025/12/07,ATM Withdrawal,36894.07,ATM,Cape Town,Success,Medium
+SB100609,4131288466,Sipho Nkosi,2025/10/09,Online Transfer,19486.69,POS Terminal,Johannesburg,Flagged,High
+SB100610,4199482259,Nomsa Khumalo,2025/02/27,Online Transfer,12702.97,ATM,Bloemfontein,Success,Low
+SB100611,4188476684,Thabo Mokoena,2025/07/22,ATM Withdrawal,21736.37,ATM,Johannesburg,Failed,Low
+SB100612,4122009789,Nomsa Khumalo,2025/03/22,International Payment,48443.3,Online Banking,Johannesburg,Success,High
+SB100613,4193903841,Sipho Nkosi,2025/01/31,Debit Order,34312.93,Branch,Bloemfontein,Flagged,High
+SB100614,4152512063,Tebogo Mashego,2025/11/27,EFT Payment,7738.23,Branch,Port Elizabeth,Success,Low
+SB100615,4160703288,Zanele Sithole,2025/03/10,Salary Deposit,44595.21,Branch,Johannesburg,Success,Medium
+SB100616,4175779034,Nomsa Khumalo,2025/10/18,International Payment,24290.84,ATM,Polokwane,Flagged,High
+SB100617,4190353461,Tebogo Mashego,2025/03/24,International Payment,17415.85,Mobile App,Polokwane,Success,Medium
+SB100618,4159273033,Ayanda Zulu,2025/01/01,Online Transfer,7793.52,POS Terminal,Cape Town,Pending,Medium
+SB100619,4193241474,Nomsa Khumalo,2025/06/14,ATM Withdrawal,36696.2,Mobile App,Bloemfontein,Success,High
+SB100620,4176779917,Tebogo Mashego,2025/03/20,Cash Deposit,48359.8,POS Terminal,Durban,Success,Medium
+SB100621,4198434857,Thabo Mokoena,2025/01/23,Debit Order,16163.87,ATM,Pretoria,Pending,Low
+SB100622,4135718350,Thabo Mokoena,2025/01/17,Salary Deposit,43680.96,POS Terminal,Bloemfontein,Success,Medium
+SB100623,4144351488,Sipho Nkosi,2025/07/07,International Payment,41823.16,ATM,Polokwane,Flagged,High
+SB100624,4175955329,Thabo Mokoena,2025/08/28,ATM Withdrawal,35906.37,Mobile App,Durban,Success,High
+SB100625,4117824896,Nandi Mbatha,2025/05/17,Cash Deposit,27923.09,POS Terminal,Johannesburg,Pending,Medium
+SB100626,4138977615,Tebogo Mashego,2025/02/19,Online Transfer,36728.3,Mobile App,Bloemfontein,Success,Medium
+SB100627,4198164473,Nomsa Khumalo,2025/10/19,Cash Deposit,11589.35,ATM,Polokwane,Pending,Low
+SB100628,4187385064,Zanele Sithole,2025/12/12,Cash Deposit,37472.26,Online Banking,Bloemfontein,Flagged,High
+SB100629,4134212413,Tebogo Mashego,2025/07/25,EFT Payment,33278.86,POS Terminal,Durban,Success,Medium
+SB100630,4183830667,Zanele Sithole,2025/07/10,International Payment,32893.72,Online Banking,Port Elizabeth,Flagged,High
+SB100631,4138712948,Kagiso Molefe,2025/10/09,Debit Order,31680.38,Branch,Durban,Flagged,High
+SB100632,4114652375,Bongani Ndlovu,2025/11/02,International Payment,48084.51,Mobile App,Polokwane,Success,High
+SB100633,4138833029,Zanele Sithole,2025/01/12,Online Transfer,6797.53,Branch,Polokwane,Success,Low
+SB100634,4157735307,Lerato Dlamini,2025/03/12,POS Purchase,25588.01,Branch,Durban,Failed,Low
+SB100635,4150305910,Thabo Mokoena,2025/10/20,Salary Deposit,44486.79,Online Banking,Polokwane,Success,Medium
+SB100636,4133206579,Ayanda Zulu,2025/12/20,EFT Payment,45898.2,POS Terminal,Port Elizabeth,Flagged,High
+SB100637,4187347488,Kagiso Molefe,2025/02/10,Online Transfer,45387.4,Mobile App,Port Elizabeth,Success,Medium
+SB100638,4140429530,Nandi Mbatha,2025/01/06,Cash Deposit,16752.76,Online Banking,Johannesburg,Success,Low
+SB100639,4130076290,Zanele Sithole,2025/09/15,ATM Withdrawal,15273.93,ATM,Pretoria,Pending,Low
+SB100640,4189877290,Nandi Mbatha,2025/09/16,Cash Deposit,2573.46,Mobile App,Pretoria,Flagged,High
+SB100641,4121079017,Ayanda Zulu,2025/10/20,Cash Deposit,21625.19,Mobile App,Polokwane,Failed,Low
+SB100642,4127498659,Lerato Dlamini,2025/09/04,EFT Payment,19989.61,POS Terminal,Pretoria,Failed,Low
+SB100643,4180363346,Nomsa Khumalo,2025/05/05,Salary Deposit,24418.66,Mobile App,Durban,Pending,Low
+SB100644,4125103503,Kagiso Molefe,2025/08/05,Debit Order,38849.76,Branch,Durban,Flagged,High
+SB100645,4150912093,Lerato Dlamini,2025/06/29,Debit Order,9564.96,POS Terminal,Port Elizabeth,Success,Low
+SB100646,4141338443,Nomsa Khumalo,2025/12/17,International Payment,49508.45,Branch,Pretoria,Flagged,High
+SB100647,4117319968,Nomsa Khumalo,2025/11/14,EFT Payment,37898.8,ATM,Port Elizabeth,Success,Medium
+SB100648,4124935479,Bongani Ndlovu,2025/08/19,Online Transfer,41630.62,Online Banking,Johannesburg,Success,Medium
+SB100649,4144716489,Tebogo Mashego,2025/09/05,Salary Deposit,16627.24,POS Terminal,Bloemfontein,Pending,Low
+SB100650,4180705777,Sipho Nkosi,2025/05/11,ATM Withdrawal,49615.49,ATM,Johannesburg,Flagged,High
+SB100651,4111118594,Thabo Mokoena,2025/07/18,Online Transfer,14236.48,Branch,Bloemfontein,Pending,Low
+SB100652,4197162488,Kagiso Molefe,2025/04/29,Debit Order,42611.54,Online Banking,Polokwane,Success,High
+SB100653,4190142265,Tebogo Mashego,2025/02/15,EFT Payment,48831.77,ATM,Pretoria,Flagged,High
+SB100654,4115335477,Nomsa Khumalo,2025/09/29,International Payment,25057.51,Branch,Durban,Flagged,High
+SB100655,4157232974,Zanele Sithole,2025/11/17,POS Purchase,24522.15,Branch,Pretoria,Pending,Low
+SB100656,4161965156,Sipho Nkosi,2025/10/12,Online Transfer,49799.92,Branch,Pretoria,Flagged,High
+SB100657,4161298971,Tebogo Mashego,2025/12/14,Cash Deposit,7627.82,POS Terminal,Port Elizabeth,Success,Low
+SB100658,4167239162,Bongani Ndlovu,2025/11/06,Salary Deposit,31294.95,Branch,Cape Town,Flagged,High
+SB100659,4182659280,Nomsa Khumalo,2025/03/12,Salary Deposit,27134.58,Branch,Bloemfontein,Pending,Low
+SB100660,4129482024,Nandi Mbatha,2025/03/22,POS Purchase,35271.56,Branch,Johannesburg,Flagged,High
+SB100661,4113957187,Zanele Sithole,2025/07/31,EFT Payment,27889.15,Online Banking,Durban,Success,Low
+SB100662,4124330619,Lerato Dlamini,2025/04/05,Online Transfer,22178.07,Mobile App,Port Elizabeth,Success,Low
+SB100663,4190042177,Nomsa Khumalo,2025/04/29,Online Transfer,49298.48,Mobile App,Durban,Flagged,High
+SB100664,4191163038,Ayanda Zulu,2025/12/31,International Payment,4019.8,Branch,Pretoria,Success,Medium
+SB100665,4140369856,Sipho Nkosi,2025/07/29,International Payment,42613.87,Mobile App,Durban,Success,High
+SB100666,4137455861,Thabo Mokoena,2025/04/01,Salary Deposit,47512.39,Online Banking,Port Elizabeth,Flagged,High
+SB100667,4167385552,Kagiso Molefe,2025/01/22,Debit Order,30872.12,POS Terminal,Bloemfontein,Flagged,High
+SB100668,4186763742,Nandi Mbatha,2025/10/02,Debit Order,41225.21,POS Terminal,Bloemfontein,Flagged,High
+SB100669,4115692967,Nomsa Khumalo,2025/09/23,ATM Withdrawal,43795.36,POS Terminal,Cape Town,Flagged,High
+SB100670,4194644215,Sipho Nkosi,2025/04/08,ATM Withdrawal,49192.34,Branch,Cape Town,Flagged,High
+SB100671,4171920968,Lerato Dlamini,2025/08/05,Online Transfer,19932.09,Branch,Polokwane,Failed,Medium
+SB100672,4122138759,Tebogo Mashego,2025/02/27,POS Purchase,45955.69,ATM,Port Elizabeth,Flagged,High
+SB100673,4170516875,Sipho Nkosi,2025/04/02,POS Purchase,29293.11,Online Banking,Polokwane,Failed,Low
+SB100674,4153496580,Lerato Dlamini,2025/03/05,Salary Deposit,44836.04,Mobile App,Johannesburg,Success,High
+SB100675,4161551334,Tebogo Mashego,2025/11/10,Debit Order,35326.02,ATM,Cape Town,Success,Medium
+SB100676,4185898994,Lerato Dlamini,2025/03/25,ATM Withdrawal,27539.78,ATM,Pretoria,Failed,Medium
+SB100677,4169895766,Bongani Ndlovu,2025/11/17,ATM Withdrawal,38469.38,ATM,Johannesburg,Success,High
+SB100678,4143971980,Sipho Nkosi,2025/08/23,Salary Deposit,44932.17,Online Banking,Port Elizabeth,Success,Medium
+SB100679,4141927492,Nomsa Khumalo,2025/10/29,ATM Withdrawal,24957.18,Online Banking,Cape Town,Failed,Low
+SB100680,4142844845,Tebogo Mashego,2025/05/23,EFT Payment,20537.06,POS Terminal,Bloemfontein,Success,Low
+SB100681,4117390556,Zanele Sithole,2025/01/19,Salary Deposit,27899.55,ATM,Port Elizabeth,Success,Low
+SB100682,4116580878,Thabo Mokoena,2025/08/02,Online Transfer,1669.98,ATM,Pretoria,Success,Low
+SB100683,4158343701,Sipho Nkosi,2025/02/17,POS Purchase,33620.92,Branch,Durban,Flagged,High
+SB100684,4183882978,Thabo Mokoena,2025/05/30,Cash Deposit,18460.04,Online Banking,Pretoria,Failed,Medium
+SB100685,4180416822,Nomsa Khumalo,2025/12/23,Online Transfer,6145.06,ATM,Polokwane,Failed,Low
+SB100686,4191171931,Bongani Ndlovu,2025/08/07,EFT Payment,2956.32,POS Terminal,Port Elizabeth,Pending,Low
+SB100687,4192448605,Nandi Mbatha,2025/09/12,Debit Order,15858.6,POS Terminal,Bloemfontein,Flagged,High
+SB100688,4141235369,Bongani Ndlovu,2025/04/10,International Payment,31611.29,Mobile App,Johannesburg,Flagged,High
+SB100689,4192585240,Kagiso Molefe,2025/07/31,EFT Payment,1248.14,Mobile App,Durban,Success,Medium
+SB100690,4147799296,Bongani Ndlovu,2025/02/04,Salary Deposit,17515.02,Branch,Durban,Success,Low
+SB100691,4154732472,Zanele Sithole,2025/07/22,Debit Order,25359.15,POS Terminal,Polokwane,Success,Medium
+SB100692,4155357116,Ayanda Zulu,2025/08/31,POS Purchase,48007.64,Mobile App,Bloemfontein,Success,Medium
+SB100693,4154977656,Ayanda Zulu,2025/07/31,POS Purchase,6830.91,Mobile App,Port Elizabeth,Pending,Low
+SB100694,4137952515,Nandi Mbatha,2025/12/17,Debit Order,26077.61,Branch,Port Elizabeth,Success,Low
+SB100695,4130039365,Bongani Ndlovu,2025/01/16,Debit Order,45813.51,Branch,Cape Town,Success,Medium
+SB100696,4189885300,Thabo Mokoena,2025/06/07,POS Purchase,31344.22,Branch,Bloemfontein,Success,High
+SB100697,4159873103,Ayanda Zulu,2025/06/04,Cash Deposit,1629.83,ATM,Polokwane,Success,Low
+SB100698,4137125189,Thabo Mokoena,2025/08/16,EFT Payment,15150.8,POS Terminal,Johannesburg,Success,Low
+SB100699,4174890505,Tebogo Mashego,2025/06/08,POS Purchase,39961.31,Branch,Pretoria,Success,Medium
+SB100700,4127812995,Nomsa Khumalo,2025/01/19,EFT Payment,38485.6,Online Banking,Cape Town,Flagged,High
+SB100701,4115909601,Nandi Mbatha,2025/02/14,EFT Payment,35698.19,Branch,Cape Town,Success,Medium
+SB100702,4151940463,Sipho Nkosi,2025/10/23,EFT Payment,44464.83,Branch,Bloemfontein,Flagged,High
+SB100703,4148462422,Bongani Ndlovu,2025/09/30,Debit Order,44612.17,Branch,Port Elizabeth,Success,Medium
+SB100704,4146726921,Thabo Mokoena,2025/01/08,EFT Payment,22083.73,POS Terminal,Polokwane,Success,Low
+SB100705,4152746321,Bongani Ndlovu,2025/03/14,Salary Deposit,25727.33,Branch,Polokwane,Pending,Low
+SB100706,4182555030,Ayanda Zulu,2025/01/26,EFT Payment,12279.01,ATM,Johannesburg,Failed,Low
+SB100707,4121558774,Kagiso Molefe,2025/07/20,ATM Withdrawal,23563.24,ATM,Bloemfontein,Success,Low
+SB100708,4136594858,Tebogo Mashego,2025/02/10,International Payment,29826.26,Online Banking,Polokwane,Success,High
+SB100709,4151660066,Ayanda Zulu,2025/08/29,International Payment,6633.17,ATM,Pretoria,Success,Medium
+SB100710,4162623673,Lerato Dlamini,2025/12/25,Online Transfer,7228.9,Branch,Port Elizabeth,Flagged,High
+SB100711,4173798298,Thabo Mokoena,2025/06/29,Debit Order,43046.54,Online Banking,Cape Town,Success,High
+SB100712,4127098533,Tebogo Mashego,2025/02/22,Online Transfer,42296.02,Online Banking,Port Elizabeth,Flagged,High
+SB100713,4150549608,Tebogo Mashego,2025/08/25,EFT Payment,35727.94,Online Banking,Polokwane,Flagged,High
+SB100714,4161514973,Thabo Mokoena,2025/06/24,Salary Deposit,20701.42,ATM,Port Elizabeth,Failed,Low
+SB100715,4155929418,Tebogo Mashego,2025/12/22,Cash Deposit,34718.29,ATM,Pretoria,Flagged,High
+SB100716,4175314414,Thabo Mokoena,2025/10/31,EFT Payment,33147.48,POS Terminal,Cape Town,Flagged,High
+SB100717,4151343854,Kagiso Molefe,2025/02/05,EFT Payment,16302.64,POS Terminal,Johannesburg,Success,Medium
+SB100718,4118252004,Thabo Mokoena,2025/04/22,Cash Deposit,34291.16,ATM,Polokwane,Flagged,High
+SB100719,4170797197,Tebogo Mashego,2025/05/30,ATM Withdrawal,45167.64,Online Banking,Polokwane,Flagged,High
+SB100720,4150229795,Nandi Mbatha,2025/12/14,Salary Deposit,28917.67,Branch,Cape Town,Failed,Low
+SB100721,4192072899,Tebogo Mashego,2025/07/26,Debit Order,35903.67,ATM,Port Elizabeth,Flagged,High
+SB100722,4117130627,Sipho Nkosi,2025/12/27,Debit Order,14744.52,POS Terminal,Port Elizabeth,Flagged,High
+SB100723,4141573535,Kagiso Molefe,2025/12/26,EFT Payment,48935.88,POS Terminal,Cape Town,Flagged,High
+SB100724,4138348941,Lerato Dlamini,2025/09/01,Cash Deposit,31279.45,ATM,Pretoria,Flagged,High
+SB100725,4148717904,Lerato Dlamini,2025/03/10,Debit Order,27793.31,Mobile App,Johannesburg,Success,Medium
+SB100726,4168617594,Lerato Dlamini,2025/02/13,POS Purchase,32437.04,ATM,Bloemfontein,Flagged,High
+SB100727,4167137046,Nandi Mbatha,2025/04/03,International Payment,40306.78,Online Banking,Polokwane,Flagged,High
+SB100728,4167011913,Nandi Mbatha,2025/01/04,International Payment,21235.03,POS Terminal,Cape Town,Success,High
+SB100729,4183305194,Nandi Mbatha,2025/07/07,Salary Deposit,42347.85,Mobile App,Johannesburg,Success,High
+SB100730,4120745888,Lerato Dlamini,2025/09/27,Debit Order,28429.07,Branch,Cape Town,Failed,Low
+SB100731,4199085263,Thabo Mokoena,2025/12/17,EFT Payment,25871.63,POS Terminal,Port Elizabeth,Pending,Low
+SB100732,4181810948,Sipho Nkosi,2025/08/29,ATM Withdrawal,29002.44,Online Banking,Polokwane,Flagged,High
+SB100733,4149542951,Bongani Ndlovu,2025/03/27,Debit Order,45307.45,Mobile App,Bloemfontein,Flagged,High
+SB100734,4118243352,Ayanda Zulu,2025/10/24,Online Transfer,46147.08,ATM,Polokwane,Flagged,High
+SB100735,4113663887,Bongani Ndlovu,2025/09/06,Online Transfer,2628.41,Mobile App,Pretoria,Pending,Medium
+SB100736,4147711414,Bongani Ndlovu,2025/05/12,Online Transfer,25304.53,Mobile App,Bloemfontein,Pending,Low
+SB100737,4130285078,Ayanda Zulu,2025/07/09,POS Purchase,5621.89,ATM,Durban,Flagged,High
+SB100738,4114441335,Zanele Sithole,2025/02/13,Salary Deposit,39137.26,ATM,Polokwane,Flagged,High
+SB100739,4165424925,Kagiso Molefe,2025/05/02,POS Purchase,46700.4,Online Banking,Bloemfontein,Flagged,High
+SB100740,4117291483,Bongani Ndlovu,2025/03/01,Salary Deposit,31896.85,Mobile App,Pretoria,Flagged,High
+SB100741,4181473736,Nomsa Khumalo,2025/07/14,International Payment,23227.55,Online Banking,Cape Town,Flagged,High
+SB100742,4161271721,Zanele Sithole,2025/09/29,Cash Deposit,13168.13,Mobile App,Johannesburg,Failed,Low
+SB100743,4197518806,Bongani Ndlovu,2025/06/21,Debit Order,45889.72,Branch,Durban,Flagged,High
+SB100744,4142453439,Nandi Mbatha,2025/04/10,Online Transfer,40125.7,POS Terminal,Durban,Success,High
+SB100745,4111137651,Thabo Mokoena,2025/01/07,POS Purchase,33902.02,Online Banking,Johannesburg,Success,High
+SB100746,4143808923,Nomsa Khumalo,2025/01/18,International Payment,26286.95,Mobile App,Polokwane,Flagged,High
+SB100747,4195642035,Thabo Mokoena,2025/12/29,Salary Deposit,4642.47,Mobile App,Johannesburg,Flagged,High
+SB100748,4196960449,Nandi Mbatha,2025/04/05,POS Purchase,42829.22,Mobile App,Bloemfontein,Flagged,High
+SB100749,4195735668,Ayanda Zulu,2025/05/22,Online Transfer,9253.94,Online Banking,Bloemfontein,Success,Low
+SB100750,4119931717,Bongani Ndlovu,2025/02/01,Debit Order,45174.41,Online Banking,Cape Town,Success,Medium
+SB100751,4133881291,Ayanda Zulu,2025/02/05,ATM Withdrawal,16666.1,Online Banking,Pretoria,Failed,Low
+SB100752,4182562419,Kagiso Molefe,2025/04/22,POS Purchase,30534.58,POS Terminal,Bloemfontein,Success,High
+SB100753,4119787090,Thabo Mokoena,2025/10/20,International Payment,5357.17,Branch,Port Elizabeth,Success,High
+SB100754,4195944345,Sipho Nkosi,2025/01/20,International Payment,22321.81,Online Banking,Durban,Success,Medium
+SB100755,4187126909,Sipho Nkosi,2025/09/21,Debit Order,7622.79,Online Banking,Cape Town,Flagged,High
+SB100756,4161596498,Ayanda Zulu,2025/03/04,EFT Payment,21831.08,POS Terminal,Polokwane,Success,Low
+SB100757,4117408103,Thabo Mokoena,2025/07/07,Debit Order,46755.36,POS Terminal,Port Elizabeth,Success,High
+SB100758,4148917593,Nomsa Khumalo,2025/04/01,EFT Payment,48048.23,POS Terminal,Johannesburg,Flagged,High
+SB100759,4162358969,Thabo Mokoena,2025/11/19,Salary Deposit,48377.27,Branch,Cape Town,Success,Medium
+SB100760,4135916466,Sipho Nkosi,2025/10/31,International Payment,4288.88,ATM,Cape Town,Success,High
+SB100761,4112203625,Sipho Nkosi,2025/06/23,Online Transfer,19468.94,Mobile App,Durban,Failed,Low
+SB100762,4197758252,Tebogo Mashego,2025/08/23,ATM Withdrawal,39399.54,POS Terminal,Pretoria,Success,High
+SB100763,4129003951,Ayanda Zulu,2025/12/01,Salary Deposit,37065.52,Mobile App,Cape Town,Success,High
+SB100764,4197078639,Lerato Dlamini,2025/01/08,ATM Withdrawal,45363.58,ATM,Bloemfontein,Success,Medium
+SB100765,4171228059,Nandi Mbatha,2025/03/29,Online Transfer,2545.4,POS Terminal,Johannesburg,Success,Medium
+SB100766,4189856515,Nandi Mbatha,2025/04/23,EFT Payment,40899.12,Mobile App,Port Elizabeth,Success,Medium
+SB100767,4163956682,Zanele Sithole,2025/03/03,Debit Order,10171.92,POS Terminal,Polokwane,Pending,Medium
+SB100768,4133279749,Zanele Sithole,2025/02/02,Salary Deposit,6909.6,Mobile App,Durban,Pending,Medium
+SB100769,4184277128,Lerato Dlamini,2025/08/13,Cash Deposit,7104.78,ATM,Polokwane,Failed,Low
+SB100770,4192200507,Kagiso Molefe,2025/03/22,EFT Payment,2082.91,Mobile App,Cape Town,Pending,Medium
+SB100771,4197477181,Nandi Mbatha,2025/05/26,ATM Withdrawal,4082.09,Online Banking,Bloemfontein,Success,Low
+SB100772,4195875952,Bongani Ndlovu,2025/09/25,International Payment,40380.22,Online Banking,Cape Town,Success,High
+SB100773,4190030269,Lerato Dlamini,2025/09/13,POS Purchase,12000.73,POS Terminal,Johannesburg,Success,Low
+SB100774,4141626932,Nomsa Khumalo,2025/03/02,Online Transfer,31378.22,POS Terminal,Johannesburg,Success,High
+SB100775,4137931877,Bongani Ndlovu,2025/01/28,Salary Deposit,30965.1,ATM,Johannesburg,Flagged,High
+SB100776,4115786878,Sipho Nkosi,2025/11/27,International Payment,39840.82,Branch,Durban,Success,High
+SB100777,4115813974,Thabo Mokoena,2025/01/27,Online Transfer,10519.01,POS Terminal,Pretoria,Failed,Low
+SB100778,4119510600,Nomsa Khumalo,2025/08/16,ATM Withdrawal,7944.38,POS Terminal,Polokwane,Success,Low
+SB100779,4140878564,Thabo Mokoena,2025/06/16,Salary Deposit,16332.32,ATM,Johannesburg,Failed,Medium
+SB100780,4139616854,Thabo Mokoena,2025/08/30,Cash Deposit,11894.06,POS Terminal,Cape Town,Failed,Medium
+SB100781,4171067841,Lerato Dlamini,2025/07/18,Cash Deposit,2764.25,Branch,Pretoria,Pending,Low
+SB100782,4137140286,Zanele Sithole,2025/03/07,Salary Deposit,22914.12,Mobile App,Bloemfontein,Failed,Low
+SB100783,4171549421,Kagiso Molefe,2025/03/29,Online Transfer,28454.86,Branch,Pretoria,Failed,Low
+SB100784,4192077910,Lerato Dlamini,2025/10/23,POS Purchase,44326.13,POS Terminal,Port Elizabeth,Flagged,High
+SB100785,4139050434,Nandi Mbatha,2025/08/31,Cash Deposit,11523.63,Online Banking,Durban,Failed,Medium
+SB100786,4143263373,Zanele Sithole,2025/08/11,Cash Deposit,774.47,POS Terminal,Pretoria,Success,Medium
+SB100787,4166072388,Sipho Nkosi,2025/01/21,POS Purchase,44596.54,Online Banking,Bloemfontein,Flagged,High
+SB100788,4123153230,Ayanda Zulu,2025/09/11,ATM Withdrawal,38441.89,ATM,Johannesburg,Success,High
+SB100789,4139260335,Lerato Dlamini,2025/07/03,ATM Withdrawal,27946.42,Branch,Pretoria,Failed,Low
+SB100790,4199796439,Bongani Ndlovu,2025/03/24,EFT Payment,32399.63,Online Banking,Port Elizabeth,Success,Medium
+SB100791,4172244899,Lerato Dlamini,2025/12/27,ATM Withdrawal,28540.52,Online Banking,Pretoria,Flagged,High
+SB100792,4110183025,Thabo Mokoena,2025/07/17,Debit Order,39503.44,Branch,Polokwane,Flagged,High
+SB100793,4192208524,Tebogo Mashego,2025/10/22,Cash Deposit,1684.07,ATM,Port Elizabeth,Pending,Medium
+SB100794,4158853980,Sipho Nkosi,2025/02/26,Debit Order,34249.03,Online Banking,Durban,Success,High
+SB100795,4196996261,Tebogo Mashego,2025/12/27,ATM Withdrawal,23294.38,Mobile App,Polokwane,Success,Low
+SB100796,4154953500,Nomsa Khumalo,2025/10/04,Salary Deposit,35481.39,Mobile App,Bloemfontein,Success,Medium
+SB100797,4153011925,Zanele Sithole,2025/05/17,Salary Deposit,23950.75,POS Terminal,Bloemfontein,Success,Medium
+SB100798,4170721529,Ayanda Zulu,2025/09/14,ATM Withdrawal,21175.31,POS Terminal,Port Elizabeth,Failed,Low
+SB100799,4118808386,Nomsa Khumalo,2025/08/23,Online Transfer,6179.34,Mobile App,Johannesburg,Failed,Low
+SB100800,4124678711,Lerato Dlamini,2025/05/22,POS Purchase,19564.59,Mobile App,Bloemfontein,Success,Low
+SB100801,4194191586,Sipho Nkosi,2025/05/31,POS Purchase,7440.3,Online Banking,Bloemfontein,Pending,Medium
+SB100802,4169573887,Sipho Nkosi,2025/05/30,POS Purchase,27094.68,ATM,Johannesburg,Failed,Low
+SB100803,4196526415,Zanele Sithole,2025/07/30,Salary Deposit,1150.73,POS Terminal,Durban,Pending,Medium
+SB100804,4181157706,Tebogo Mashego,2025/08/16,Debit Order,32805.24,Online Banking,Durban,Flagged,High
+SB100805,4140438156,Ayanda Zulu,2025/07/10,Online Transfer,28384.22,Branch,Port Elizabeth,Failed,Low
+SB100806,4132328873,Nandi Mbatha,2025/03/24,POS Purchase,42283.41,POS Terminal,Durban,Flagged,High
+SB100807,4199436783,Lerato Dlamini,2025/03/24,POS Purchase,9154.91,ATM,Johannesburg,Pending,Medium
+SB100808,4144951262,Zanele Sithole,2025/04/05,Debit Order,2105.52,ATM,Polokwane,Failed,Low
+SB100809,4170187134,Tebogo Mashego,2025/03/25,Debit Order,35371.36,POS Terminal,Durban,Success,High
+SB100810,4129513094,Ayanda Zulu,2025/06/13,ATM Withdrawal,6118.43,ATM,Johannesburg,Failed,Low
+SB100811,4148899945,Nandi Mbatha,2025/12/08,Debit Order,48509,ATM,Port Elizabeth,Success,High
+SB100812,4174287772,Sipho Nkosi,2025/03/13,International Payment,28283.31,POS Terminal,Johannesburg,Success,High
+SB100813,4169857441,Zanele Sithole,2025/02/17,Cash Deposit,15438.71,Branch,Johannesburg,Success,Low
+SB100814,4147302753,Nomsa Khumalo,2025/01/12,Salary Deposit,30427.15,Mobile App,Polokwane,Success,High
+SB100815,4175829146,Zanele Sithole,2025/11/05,EFT Payment,42480.1,POS Terminal,Polokwane,Success,High
+SB100816,4167396933,Zanele Sithole,2025/07/17,Debit Order,47172.94,Branch,Johannesburg,Flagged,High
+SB100817,4185300576,Thabo Mokoena,2025/04/21,Debit Order,14268.29,Online Banking,Bloemfontein,Failed,Low
+SB100818,4166885794,Kagiso Molefe,2025/03/13,International Payment,49630.23,POS Terminal,Polokwane,Success,Medium
+SB100819,4155018873,Thabo Mokoena,2025/10/30,Salary Deposit,4349.59,Online Banking,Johannesburg,Pending,Low
+SB100820,4172024691,Nandi Mbatha,2025/03/12,Online Transfer,380.61,ATM,Pretoria,Pending,Low
+SB100821,4150532800,Nandi Mbatha,2025/06/05,Online Transfer,41622.57,Online Banking,Polokwane,Success,High
+SB100822,4110328387,Lerato Dlamini,2025/05/15,Salary Deposit,37005.81,Branch,Bloemfontein,Success,Medium
+SB100823,4199377391,Bongani Ndlovu,2025/08/02,International Payment,41720.44,ATM,Cape Town,Success,Medium
+SB100824,4147207440,Ayanda Zulu,2025/02/04,Salary Deposit,45344.32,POS Terminal,Bloemfontein,Success,Medium
+SB100825,4194288202,Ayanda Zulu,2025/12/22,International Payment,18119.89,Mobile App,Durban,Flagged,High
+SB100826,4188068345,Sipho Nkosi,2025/03/16,ATM Withdrawal,25650.67,Branch,Cape Town,Success,Medium
+SB100827,4158474537,Kagiso Molefe,2025/11/22,POS Purchase,43921.95,Branch,Johannesburg,Success,High
+SB100828,4134595062,Thabo Mokoena,2025/11/03,EFT Payment,14528.32,ATM,Polokwane,Pending,Low
+SB100829,4150409241,Bongani Ndlovu,2025/12/17,Debit Order,16164.21,Branch,Johannesburg,Pending,Medium
+SB100830,4128381043,Tebogo Mashego,2025/05/25,Debit Order,26744.3,Branch,Port Elizabeth,Success,Medium
+SB100831,4131881401,Thabo Mokoena,2025/04/22,Debit Order,24270.71,ATM,Polokwane,Flagged,High
+SB100832,4192332960,Tebogo Mashego,2025/09/30,Salary Deposit,11094.62,POS Terminal,Bloemfontein,Pending,Medium
+SB100833,4125645176,Lerato Dlamini,2025/01/09,EFT Payment,37827.52,Online Banking,Durban,Flagged,High
+SB100834,4190215042,Tebogo Mashego,2025/06/25,Debit Order,15613.09,ATM,Bloemfontein,Failed,Low
+SB100835,4129107146,Nomsa Khumalo,2025/06/07,EFT Payment,15268.98,ATM,Pretoria,Pending,Low
+SB100836,4120433455,Sipho Nkosi,2025/09/05,EFT Payment,6554.4,Online Banking,Johannesburg,Success,Low
+SB100837,4189614758,Sipho Nkosi,2025/08/29,ATM Withdrawal,9857.73,Mobile App,Durban,Pending,Medium
+SB100838,4126615289,Nandi Mbatha,2025/04/16,Online Transfer,2211.91,POS Terminal,Pretoria,Success,Low
+SB100839,4147228730,Nandi Mbatha,2025/06/28,Debit Order,9279.85,Branch,Pretoria,Success,Low
+SB100840,4187595788,Sipho Nkosi,2025/09/28,Salary Deposit,42764.15,ATM,Bloemfontein,Success,High
+SB100841,4110581018,Thabo Mokoena,2025/04/20,Online Transfer,9617.8,POS Terminal,Port Elizabeth,Pending,Low
+SB100842,4124404851,Lerato Dlamini,2025/07/01,Debit Order,35402.42,Online Banking,Cape Town,Success,High
+SB100843,4126591378,Ayanda Zulu,2025/02/26,Salary Deposit,10752.99,POS Terminal,Pretoria,Failed,Low
+SB100844,4115450389,Thabo Mokoena,2025/06/17,Debit Order,24816.01,Online Banking,Johannesburg,Pending,Medium
+SB100845,4169586748,Nomsa Khumalo,2025/10/11,International Payment,19269.82,Online Banking,Durban,Success,High
+SB100846,4119342782,Ayanda Zulu,2025/12/14,Cash Deposit,49248.87,Branch,Pretoria,Success,Medium
+SB100847,4180150556,Thabo Mokoena,2025/03/03,International Payment,688.65,ATM,Cape Town,Success,High
+SB100848,4118685284,Zanele Sithole,2025/04/12,EFT Payment,20061.18,Branch,Pretoria,Success,Medium
+SB100849,4176989425,Bongani Ndlovu,2026/01/01,Cash Deposit,29768.29,POS Terminal,Polokwane,Failed,Low
+SB100850,4190955493,Kagiso Molefe,2025/09/06,Cash Deposit,13684.99,POS Terminal,Durban,Pending,Low
+SB100851,4143647023,Ayanda Zulu,2025/09/12,International Payment,7411.34,ATM,Bloemfontein,Success,Medium
+SB100852,4117093731,Thabo Mokoena,2025/09/13,ATM Withdrawal,47123.03,Mobile App,Pretoria,Success,Medium
+SB100853,4193648866,Thabo Mokoena,2025/02/09,Debit Order,19162.52,POS Terminal,Port Elizabeth,Pending,Low
+SB100854,4198864649,Ayanda Zulu,2025/09/09,International Payment,24634.77,POS Terminal,Durban,Success,Medium
+SB100855,4114241081,Kagiso Molefe,2025/03/02,ATM Withdrawal,27144.78,Online Banking,Cape Town,Flagged,High
+SB100856,4114410367,Lerato Dlamini,2025/10/13,Cash Deposit,15762.23,Branch,Bloemfontein,Success,Low
+SB100857,4162221499,Ayanda Zulu,2025/02/26,Cash Deposit,8249,POS Terminal,Bloemfontein,Pending,Low
+SB100858,4178006116,Sipho Nkosi,2025/07/20,International Payment,24553.16,Branch,Cape Town,Flagged,High
+SB100859,4148176560,Zanele Sithole,2025/02/01,Cash Deposit,29572.7,Mobile App,Polokwane,Failed,Low
+SB100860,4188378721,Sipho Nkosi,2025/11/17,Debit Order,2303.67,Branch,Cape Town,Pending,Low
+SB100861,4165288255,Zanele Sithole,2025/01/29,Debit Order,4912.63,ATM,Pretoria,Flagged,High
+SB100862,4118791292,Bongani Ndlovu,2025/02/28,Online Transfer,11769.37,Branch,Pretoria,Pending,Low
+SB100863,4166703371,Nandi Mbatha,2025/09/21,Debit Order,1034.61,Online Banking,Durban,Pending,Low
+SB100864,4160699081,Nandi Mbatha,2025/07/19,International Payment,1069.09,Branch,Polokwane,Flagged,High
+SB100865,4137636546,Zanele Sithole,2025/09/12,International Payment,4931.4,POS Terminal,Port Elizabeth,Success,Medium
+SB100866,4150201014,Zanele Sithole,2025/08/12,Debit Order,38256.95,ATM,Cape Town,Success,Medium
+SB100867,4148568210,Bongani Ndlovu,2025/01/25,EFT Payment,31790.44,Branch,Polokwane,Flagged,High
+SB100868,4187603784,Thabo Mokoena,2025/10/31,Salary Deposit,20131.27,Branch,Durban,Success,Low
+SB100869,4120289344,Bongani Ndlovu,2025/09/16,International Payment,3410.13,Branch,Cape Town,Success,High
+SB100870,4163995920,Bongani Ndlovu,2025/11/16,Debit Order,33189.66,POS Terminal,Cape Town,Success,Medium
+SB100871,4179286427,Lerato Dlamini,2025/10/23,POS Purchase,33594.43,Online Banking,Pretoria,Flagged,High
+SB100872,4195621026,Tebogo Mashego,2025/11/11,International Payment,33057.27,Online Banking,Polokwane,Success,Medium
+SB100873,4129829822,Nomsa Khumalo,2025/03/19,ATM Withdrawal,36344.42,Branch,Port Elizabeth,Success,High
+SB100874,4195084307,Nomsa Khumalo,2025/07/31,Debit Order,21797.67,Branch,Port Elizabeth,Success,Medium
+SB100875,4141692809,Kagiso Molefe,2025/05/03,POS Purchase,14387.88,Mobile App,Pretoria,Pending,Low
+SB100876,4172298460,Ayanda Zulu,2025/10/14,Salary Deposit,9636.2,Online Banking,Cape Town,Failed,Medium
+SB100877,4146602780,Lerato Dlamini,2025/01/15,ATM Withdrawal,32363.76,Branch,Port Elizabeth,Success,Medium
+SB100878,4175208604,Sipho Nkosi,2025/01/29,POS Purchase,40186.73,Mobile App,Durban,Success,High
+SB100879,4158779318,Thabo Mokoena,2025/07/23,EFT Payment,30099.91,ATM,Pretoria,Flagged,High
+SB100880,4180499222,Bongani Ndlovu,2025/09/12,EFT Payment,5641.02,Mobile App,Pretoria,Pending,Low
+SB100881,4162338292,Nomsa Khumalo,2025/08/05,Debit Order,30011.07,ATM,Pretoria,Flagged,High
+SB100882,4168985391,Kagiso Molefe,2025/05/11,Salary Deposit,5385.36,POS Terminal,Johannesburg,Flagged,High
+SB100883,4152478561,Tebogo Mashego,2025/08/05,Debit Order,24543.41,Online Banking,Bloemfontein,Success,Low
+SB100884,4158720768,Ayanda Zulu,2025/07/08,Online Transfer,12355.02,Branch,Johannesburg,Success,Medium
+SB100885,4117337997,Nomsa Khumalo,2025/05/10,ATM Withdrawal,32287.61,POS Terminal,Cape Town,Flagged,High
+SB100886,4126381779,Tebogo Mashego,2025/05/02,Debit Order,15497.96,Online Banking,Cape Town,Flagged,High
+SB100887,4144297151,Bongani Ndlovu,2025/02/16,Cash Deposit,442.91,ATM,Durban,Flagged,High
+SB100888,4194738725,Zanele Sithole,2025/11/26,POS Purchase,10558.81,Online Banking,Port Elizabeth,Flagged,High
+SB100889,4173228801,Kagiso Molefe,2025/06/20,EFT Payment,1742.39,Online Banking,Port Elizabeth,Failed,Medium
+SB100890,4118907659,Zanele Sithole,2025/08/04,POS Purchase,5064.76,POS Terminal,Bloemfontein,Pending,Low
+SB100891,4116992585,Lerato Dlamini,2025/11/19,Debit Order,40680.73,Online Banking,Port Elizabeth,Success,High
+SB100892,4152107027,Nandi Mbatha,2025/02/12,ATM Withdrawal,32072.89,Mobile App,Pretoria,Flagged,High
+SB100893,4165071708,Zanele Sithole,2025/08/20,POS Purchase,12517.7,Online Banking,Port Elizabeth,Pending,Medium
+SB100894,4189593852,Zanele Sithole,2025/05/25,Online Transfer,36771.85,ATM,Johannesburg,Success,Medium
+SB100895,4186556525,Nomsa Khumalo,2025/01/11,POS Purchase,20754.1,Mobile App,Polokwane,Failed,Low
+SB100896,4136610839,Bongani Ndlovu,2025/12/26,Salary Deposit,32372.98,ATM,Johannesburg,Flagged,High
+SB100897,4121953600,Zanele Sithole,2025/03/29,Cash Deposit,20081.69,POS Terminal,Johannesburg,Success,Low
+SB100898,4176323560,Thabo Mokoena,2025/04/25,Cash Deposit,755.04,ATM,Pretoria,Failed,Medium
+SB100899,4176326127,Kagiso Molefe,2025/03/08,Online Transfer,47305.31,Online Banking,Port Elizabeth,Success,Medium
+SB100900,4147979220,Nomsa Khumalo,2025/08/03,Salary Deposit,10369.97,ATM,Cape Town,Flagged,High
+SB100901,4145138129,Nomsa Khumalo,2025/11/13,ATM Withdrawal,39633.55,Online Banking,Pretoria,Success,Medium
+SB100902,4172932224,Lerato Dlamini,2025/06/15,International Payment,18513.41,Online Banking,Bloemfontein,Success,Medium
+SB100903,4190154282,Bongani Ndlovu,2025/02/07,Cash Deposit,10650.27,Mobile App,Polokwane,Pending,Medium
+SB100904,4173207479,Zanele Sithole,2025/11/07,Debit Order,2984.68,POS Terminal,Bloemfontein,Flagged,High
+SB100905,4177718480,Nandi Mbatha,2025/07/15,ATM Withdrawal,37424.68,Branch,Cape Town,Success,Medium
+SB100906,4187911634,Lerato Dlamini,2025/05/14,POS Purchase,33579.54,ATM,Polokwane,Flagged,High
+SB100907,4122032348,Zanele Sithole,2025/12/30,Debit Order,24667.35,POS Terminal,Cape Town,Success,Medium
+SB100908,4177002914,Bongani Ndlovu,2025/07/04,EFT Payment,7132.7,Online Banking,Durban,Success,Low
+SB100909,4145400991,Tebogo Mashego,2025/06/10,Online Transfer,45144.49,Online Banking,Pretoria,Flagged,High
+SB100910,4198237348,Ayanda Zulu,2025/01/28,International Payment,15811.37,ATM,Pretoria,Success,High
+SB100911,4131951974,Ayanda Zulu,2025/08/12,POS Purchase,2775.63,Mobile App,Cape Town,Failed,Low
+SB100912,4185276619,Ayanda Zulu,2025/08/23,Debit Order,2087.55,Online Banking,Johannesburg,Flagged,High
+SB100913,4122559810,Nomsa Khumalo,2025/05/26,POS Purchase,42299.63,ATM,Port Elizabeth,Success,Medium
+SB100914,4188608290,Nomsa Khumalo,2025/10/26,Online Transfer,8456.34,Mobile App,Polokwane,Pending,Low
+SB100915,4176855296,Thabo Mokoena,2025/06/18,POS Purchase,38354.04,Mobile App,Durban,Success,High
+SB100916,4124236463,Zanele Sithole,2025/03/20,EFT Payment,34081.55,Mobile App,Johannesburg,Flagged,High
+SB100917,4189752745,Sipho Nkosi,2025/06/18,International Payment,23038.65,Mobile App,Bloemfontein,Flagged,High
+SB100918,4186391152,Lerato Dlamini,2025/04/19,International Payment,31137.12,Mobile App,Port Elizabeth,Flagged,High
+SB100919,4183438064,Nandi Mbatha,2025/07/15,Debit Order,32200.02,Mobile App,Cape Town,Flagged,High
+SB100920,4163541768,Thabo Mokoena,2025/01/11,Salary Deposit,12795.44,ATM,Pretoria,Flagged,High
+SB100921,4130687604,Thabo Mokoena,2025/06/02,Cash Deposit,19455.72,Online Banking,Port Elizabeth,Pending,Low
+SB100922,4191002225,Lerato Dlamini,2025/07/03,Online Transfer,21646.3,Mobile App,Port Elizabeth,Flagged,High
+SB100923,4173946652,Bongani Ndlovu,2025/10/16,Salary Deposit,18404.47,POS Terminal,Cape Town,Failed,Low
+SB100924,4135012256,Kagiso Molefe,2025/11/19,Cash Deposit,4556.61,Online Banking,Johannesburg,Pending,Medium
+SB100925,4140095669,Lerato Dlamini,2025/09/11,Debit Order,2069.88,POS Terminal,Bloemfontein,Flagged,High
+SB100926,4168700864,Thabo Mokoena,2025/09/02,EFT Payment,32378.91,Branch,Pretoria,Success,Medium
+SB100927,4149658873,Nandi Mbatha,2025/01/25,Online Transfer,49210.1,POS Terminal,Johannesburg,Flagged,High
+SB100928,4172365138,Nandi Mbatha,2025/05/10,EFT Payment,45869.24,Branch,Durban,Flagged,High
+SB100929,4172126560,Lerato Dlamini,2025/04/04,ATM Withdrawal,29299.12,Online Banking,Johannesburg,Pending,Low
+SB100930,4171068817,Ayanda Zulu,2025/11/16,Online Transfer,4210.36,Branch,Durban,Pending,Low
+SB100931,4120498581,Nandi Mbatha,2025/05/13,POS Purchase,48337.65,Mobile App,Cape Town,Success,Medium
+SB100932,4133049928,Ayanda Zulu,2025/08/24,ATM Withdrawal,26742.08,Online Banking,Port Elizabeth,Success,Low
+SB100933,4192778089,Zanele Sithole,2025/12/20,International Payment,32902.97,Online Banking,Port Elizabeth,Flagged,High
+SB100934,4125020641,Sipho Nkosi,2025/12/23,POS Purchase,15167.7,ATM,Port Elizabeth,Success,Low
+SB100935,4168490538,Tebogo Mashego,2025/04/08,International Payment,1389.42,Mobile App,Durban,Flagged,High
+SB100936,4132294301,Lerato Dlamini,2025/12/26,POS Purchase,38497.57,Online Banking,Cape Town,Success,High
+SB100937,4186427662,Kagiso Molefe,2025/01/27,International Payment,23600.89,Branch,Johannesburg,Success,High
+SB100938,4176532158,Nandi Mbatha,2025/11/02,Cash Deposit,5178.04,POS Terminal,Durban,Flagged,High
+SB100939,4192073508,Ayanda Zulu,2025/04/29,Cash Deposit,1899.01,Mobile App,Polokwane,Pending,Low
+SB100940,4197013391,Kagiso Molefe,2025/08/31,Debit Order,1000.03,Mobile App,Cape Town,Failed,Low
+SB100941,4131653807,Bongani Ndlovu,2025/04/09,Debit Order,31153.7,Online Banking,Durban,Flagged,High
+SB100942,4155520344,Nandi Mbatha,2025/12/03,Salary Deposit,21933.63,Online Banking,Pretoria,Pending,Low
+SB100943,4197577092,Zanele Sithole,2025/08/30,Cash Deposit,44164.51,ATM,Polokwane,Flagged,High
+SB100944,4133258738,Nomsa Khumalo,2025/03/22,EFT Payment,10400.07,POS Terminal,Cape Town,Success,Low
+SB100945,4176266658,Bongani Ndlovu,2025/05/01,Cash Deposit,5090.14,ATM,Polokwane,Flagged,High
+SB100946,4157921617,Lerato Dlamini,2025/03/31,ATM Withdrawal,2400.11,POS Terminal,Johannesburg,Failed,Low
+SB100947,4126198473,Tebogo Mashego,2025/04/25,Debit Order,40350.44,Online Banking,Durban,Flagged,High
+SB100948,4184762274,Bongani Ndlovu,2025/03/19,Debit Order,49683.46,POS Terminal,Polokwane,Flagged,High
+SB100949,4171355706,Thabo Mokoena,2025/02/24,ATM Withdrawal,33490.82,POS Terminal,Polokwane,Flagged,High
+SB100950,4124148036,Lerato Dlamini,2025/11/19,EFT Payment,39118.71,Mobile App,Port Elizabeth,Success,High
+SB100951,4169259530,Tebogo Mashego,2025/09/13,Debit Order,10309.04,Mobile App,Pretoria,Failed,Low
+SB100952,4137097261,Ayanda Zulu,2025/08/01,Debit Order,32372.29,Mobile App,Pretoria,Success,High
+SB100953,4121439895,Bongani Ndlovu,2025/07/10,International Payment,41748.93,Online Banking,Durban,Flagged,High
+SB100954,4181088456,Kagiso Molefe,2025/04/27,Salary Deposit,31490.55,ATM,Port Elizabeth,Success,Medium
+SB100955,4158556533,Sipho Nkosi,2025/08/15,Cash Deposit,21469.7,ATM,Port Elizabeth,Pending,Medium
+SB100956,4163908666,Lerato Dlamini,2025/08/11,EFT Payment,546.94,Mobile App,Cape Town,Failed,Low
+SB100957,4194772931,Tebogo Mashego,2025/06/01,POS Purchase,37971.66,Online Banking,Cape Town,Success,High
+SB100958,4156192019,Sipho Nkosi,2025/05/24,Online Transfer,44294.85,POS Terminal,Polokwane,Success,High
+SB100959,4183071525,Nandi Mbatha,2025/11/13,Cash Deposit,46026.51,Online Banking,Bloemfontein,Success,High
+SB100960,4121311994,Sipho Nkosi,2025/10/03,Cash Deposit,17295.27,Branch,Cape Town,Failed,Medium
+SB100961,4138686961,Thabo Mokoena,2025/09/19,POS Purchase,36268.68,POS Terminal,Durban,Flagged,High
+SB100962,4189524487,Bongani Ndlovu,2025/05/04,POS Purchase,26090.73,Branch,Bloemfontein,Pending,Low
+SB100963,4144863921,Tebogo Mashego,2025/07/01,EFT Payment,21166.16,Mobile App,Johannesburg,Failed,Medium
+SB100964,4110699730,Ayanda Zulu,2025/06/23,EFT Payment,37840.17,ATM,Port Elizabeth,Flagged,High
+SB100965,4186875315,Lerato Dlamini,2026/01/01,Salary Deposit,37300.62,Online Banking,Polokwane,Success,High
+SB100966,4158488507,Ayanda Zulu,2025/02/20,EFT Payment,36888.74,ATM,Bloemfontein,Flagged,High
+SB100967,4167027331,Lerato Dlamini,2025/09/01,Cash Deposit,21313.32,ATM,Cape Town,Success,Low
+SB100968,4162986806,Bongani Ndlovu,2025/10/27,Cash Deposit,3949.73,Online Banking,Bloemfontein,Pending,Low
+SB100969,4165958370,Lerato Dlamini,2025/03/15,International Payment,21199.94,POS Terminal,Pretoria,Flagged,High
+SB100970,4178878589,Tebogo Mashego,2025/03/02,International Payment,24263.98,ATM,Cape Town,Success,Medium
+SB100971,4159570909,Thabo Mokoena,2025/11/05,POS Purchase,23694.11,Online Banking,Johannesburg,Flagged,High
+SB100972,4125803092,Zanele Sithole,2025/06/06,Online Transfer,6087.28,Branch,Durban,Success,Low
+SB100973,4189138026,Kagiso Molefe,2025/01/25,ATM Withdrawal,14734.37,Branch,Durban,Success,Medium
+SB100974,4183489212,Zanele Sithole,2025/02/04,International Payment,10818.29,Mobile App,Cape Town,Success,Medium
+SB100975,4160641104,Ayanda Zulu,2025/11/07,Online Transfer,24084.76,ATM,Port Elizabeth,Failed,Low
+SB100976,4129996104,Zanele Sithole,2025/02/15,International Payment,6969.19,POS Terminal,Bloemfontein,Flagged,High
+SB100977,4163069304,Zanele Sithole,2025/10/04,Cash Deposit,31198.29,Mobile App,Bloemfontein,Success,Medium
+SB100978,4113329148,Nandi Mbatha,2025/11/19,Online Transfer,44507.66,Branch,Polokwane,Flagged,High
+SB100979,4193041052,Tebogo Mashego,2025/10/23,EFT Payment,32275.73,Mobile App,Polokwane,Success,Medium
+SB100980,4198349411,Tebogo Mashego,2025/04/03,International Payment,26111.6,Mobile App,Durban,Success,High
+SB100981,4187786253,Ayanda Zulu,2025/02/13,Salary Deposit,39348.51,POS Terminal,Polokwane,Flagged,High
+SB100982,4155628196,Kagiso Molefe,2025/04/03,ATM Withdrawal,16055.54,Online Banking,Johannesburg,Success,Low
+SB100983,4123332334,Tebogo Mashego,2025/03/28,Debit Order,42989.44,Branch,Pretoria,Success,High
+SB100984,4132708438,Sipho Nkosi,2025/11/11,EFT Payment,9174.31,Branch,Pretoria,Failed,Low
+SB100985,4152955238,Lerato Dlamini,2025/07/31,ATM Withdrawal,1407.2,Branch,Durban,Success,Low
+SB100986,4190128603,Nandi Mbatha,2025/05/02,EFT Payment,18806.88,Online Banking,Polokwane,Success,Low
+SB100987,4152726394,Ayanda Zulu,2025/10/11,Cash Deposit,37631.88,Online Banking,Johannesburg,Success,High
+SB100988,4146126008,Tebogo Mashego,2025/10/28,Cash Deposit,24234.37,Mobile App,Pretoria,Success,Low
+SB100989,4121261988,Tebogo Mashego,2025/04/15,POS Purchase,38160.77,ATM,Durban,Flagged,High
+SB100990,4166875091,Tebogo Mashego,2025/08/20,POS Purchase,27044.97,Mobile App,Johannesburg,Pending,Medium
+SB100991,4118076555,Ayanda Zulu,2025/05/20,Online Transfer,40641.55,POS Terminal,Durban,Success,High
+SB100992,4138555376,Nandi Mbatha,2025/09/19,Cash Deposit,41982.41,Branch,Johannesburg,Flagged,High
+SB100993,4126505688,Lerato Dlamini,2025/10/12,EFT Payment,8112.74,Branch,Cape Town,Failed,Low
+SB100994,4195251058,Bongani Ndlovu,2025/12/29,Debit Order,10581.97,Online Banking,Durban,Failed,Medium
+SB100995,4190465362,Zanele Sithole,2025/01/09,Debit Order,12334.12,ATM,Bloemfontein,Failed,Low
+SB100996,4111285619,Lerato Dlamini,2025/07/31,International Payment,46116.78,POS Terminal,Bloemfontein,Success,Medium
+SB100997,4197120361,Thabo Mokoena,2025/10/03,Cash Deposit,35179.82,Mobile App,Port Elizabeth,Flagged,High
+SB100998,4160516391,Nandi Mbatha,2025/07/03,International Payment,40812.03,Online Banking,Pretoria,Success,High
+SB100999,4159725069,Nomsa Khumalo,2025/08/16,ATM Withdrawal,41965.33,Mobile App,Pretoria,Success,Medium
