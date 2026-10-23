@@ -7,7 +7,7 @@ import Config
 # Run `mix help test` for more information.
 config :fraud_detect, FraudDetect.Repo,
   username: "postgres",
-  password: "postgres",
+  password: "    ",
   hostname: "localhost",
   database: "fraud_detect_test#{System.get_env("MIX_TEST_PARTITION")}",
   pool: Ecto.Adapters.SQL.Sandbox,
