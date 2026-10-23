@@ -19,6 +19,7 @@ defmodule FraudDetectWeb.Router do
 
     live "/customers", CustomerLive
     live "/fraud", FraudLive
+    live "FraudDashboard", FraudDashboardLive
 
     get "/", PageController, :home
   end
