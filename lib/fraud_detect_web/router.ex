@@ -17,9 +17,9 @@ defmodule FraudDetectWeb.Router do
   scope "/", FraudDetectWeb do
     pipe_through :browser
 
-    live "/customers", CustomerLive
-    #live "/fraud", FraudLive
-    live "FraudDashboard", FraudDashboardLive
+    # live "/customers", CustomerLive
+    # live "/fraud", FraudLive
+    live "/FraudDashboard", FraudDashboardLive
 
     get "/", PageController, :home
   end
